@@ -1,0 +1,58 @@
+{
+    "id": "pw.ers.porntube",
+    "version": "0.2.2",
+    "description": "Premium porn torrents with RealDebrid support",
+    "name": "Porn Tube",
+    "logo": "https://dirty-pink.ers.pw/logo.png",
+    "behaviorHints": {
+    "adult": true,
+    "configurable": true,
+    "configurationRequired": false
+    },
+    "resources": [
+    "catalog",
+    "meta",
+    "stream"
+    ],
+    "types": [
+    "movie"
+    ],
+    "catalogs": [
+    {
+    "type": "movie",
+    "id": "pt_new",
+    "name": "Porn Tube",
+    "extra": [
+    {
+    "name": "skip"
+    },
+    {
+    "name": "genre",
+    "isRequired": false,
+    "options": [
+    "Blacked",
+    "BlackedRaw",
+    "BrazzersExxtra",
+    "Deeper",
+    "Hegre",
+    "LittleCaprice-Dreams",
+    "OnlyFans",
+    "PureTaboo",
+    "SexArt",
+    "SheSeducedMe",
+    "Slayed",
+    "SweetheartVideo",
+    "TonightsGirlfriend",
+    "Tushy",
+    "TushyRaw",
+    "VivThomas",
+    "Vixen"
+    ]
+    }
+    ]
+    }
+    ],
+    "idPrefixes": [
+    "pt"
+    ]
+    }
