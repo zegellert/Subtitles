@@ -1,0 +1,4527 @@
+﻿1
+00:00:49,590 --> 00:00:51,884
+<font color="#ffffff">(Wolfsgeheul)</font>
+
+2
+00:00:52,385 --> 00:00:55,262
+<font color="#ffffff">Keine Angst!
+</font><font color="#ffffff">Das ist nur ein Wolfsrudel!</font>
+
+3
+00:00:55,763 --> 00:00:58,432
+<font color="#ffffff">Wir werden es bald los sein!</font>
+
+4
+00:01:12,780 --> 00:01:13,989
+<font color="#ffffff">Ah!</font>
+
+5
+00:01:14,490 --> 00:01:16,534
+<font color="#ffffff">Das greift nach mir!</font>
+
+6
+00:01:17,034 --> 00:01:18,577
+<font color="#ffffff">Komm raus!</font>
+
+7
+00:01:19,078 --> 00:01:20,329
+<font color="#ffffff">Lauf! Lauf!</font>
+
+8
+00:01:20,830 --> 00:01:25,042
+<font color="#ffffff">Nein!  Wir müssen es
+</font><font color="#ffffff">endlich beenden, Benjamin!</font>
+
+9
+00:01:25,543 --> 00:01:28,337
+<font color="#ffffff">Wir begraben es! Hilf mir!</font>
+
+10
+00:01:28,838 --> 00:01:31,716
+<font color="#ffffff">Was ist, wenn es jemand ausgräbt?</font>
+
+11
+00:01:33,634 --> 00:01:37,680
+<font color="#ffffff">Gott möge seiner armen Seele
+</font><font color="#ffffff">gnädig sein!</font>
+
+12
+00:01:43,854 --> 00:01:45,272
+<font color="#ffffff">1,6 KM
+</font><font color="#ffffff">BRANTFORD</font>
+
+13
+00:01:51,736 --> 00:01:55,322
+<font color="#ffffff">(Trommel-Geräusch)</font>
+
+14
+00:02:09,920 --> 00:02:12,631
+<font color="#ffffff">Hallo, Alan!
+</font><font color="#00ffff">- Hallo!</font>
+
+15
+00:02:13,132 --> 00:02:14,967
+<font color="#00ffff">Hallo, Frank!</font>
+
+16
+00:02:22,641 --> 00:02:24,977
+<font color="#ffffff">Du hast Grün!
+</font><font color="#00ffff">- Danke, Bill!</font>
+
+17
+00:02:39,950 --> 00:02:41,911
+<font color="#ffffff">Attacke! Auf ihn!</font>
+
+18
+00:02:47,416 --> 00:02:49,668
+<font color="#ffffff">Du bist tot, Parrish!</font>
+
+19
+00:02:50,920 --> 00:02:54,298
+<font color="#ffffff">Hey, Parrish! Wohin so eilig?</font>
+
+20
+00:03:01,472 --> 00:03:04,600
+<font color="#ffffff">Na warte, ich verprügle dich!</font>
+
+21
+00:03:10,857 --> 00:03:14,236
+<font color="#ffffff">PARRISH SCHUHFABRIK</font>
+
+22
+00:03:14,735 --> 00:03:17,571
+<font color="#ffffff">Schneller! Schneller!</font>
+
+23
+00:03:19,698 --> 00:03:22,535
+<font color="#ffffff">Lauf nur, Parrish! Lauf zu Daddy!</font>
+
+24
+00:03:23,035 --> 00:03:25,079
+<font color="#ffffff">Wir warten auf dich!</font>
+
+25
+00:03:44,723 --> 00:03:47,852
+<font color="#00ffff">Hi, Carl!
+</font><font color="#ffffff">- Hallo, Alan!</font>
+
+26
+00:03:48,352 --> 00:03:50,145
+<font color="#ffffff">Warte, ich zeige dir etwas!</font>
+
+27
+00:03:50,646 --> 00:03:53,190
+<font color="#ffffff">Ich habe ein Jahr daran gearbeitet!</font>
+
+28
+00:03:53,691 --> 00:03:57,027
+<font color="#ffffff">Ich zeige ihn heute deinem Vater!</font>
+
+29
+00:03:57,528 --> 00:03:58,988
+<font color="#ffffff">Nimm ihn!</font>
+
+30
+00:03:59,822 --> 00:04:04,743
+<font color="#ffffff">Glaubst du, er gefällt ihm?
+</font><font color="#00ffff">- Was ist das?</font>
+
+31
+00:04:05,244 --> 00:04:07,121
+<font color="#ffffff">Das ist die Zukunft, Mann!</font>
+
+32
+00:04:07,621 --> 00:04:12,668
+<font color="#ffffff">Dieses Modell werden bald
+</font><font color="#ffffff">alle Amerikaner tragen!</font>
+
+33
+00:04:13,168 --> 00:04:16,505
+<font color="#ffffff">Es wird der Sportschuh-Hit!</font>
+
+34
+00:04:17,089 --> 00:04:19,717
+<font color="#ffffff">Was hast du denn?</font>
+
+35
+00:04:20,217 --> 00:04:21,760
+<font color="#00ffff">Nichts.</font>
+
+36
+00:04:22,261 --> 00:04:23,012
+<font color="#ffffff">Alan!</font>
+
+37
+00:04:23,596 --> 00:04:24,722
+<font color="#ffffff">Danke!</font>
+
+38
+00:04:25,222 --> 00:04:27,850
+<font color="#ffffff">Was suchst du schon wieder hier?</font>
+
+39
+00:04:28,350 --> 00:04:33,188
+<font color="#ffffff">Die Fabrik ist kein Spielplatz!
+</font><font color="#00ffff">- Dad, nimmst du mich nachher mit?</font>
+
+40
+00:04:33,689 --> 00:04:36,817
+<font color="#ffffff">Ist Billy Jessup wieder hinter
+</font><font color="#ffffff">dir her?</font>
+
+41
+00:04:37,693 --> 00:04:43,449
+<font color="#ffffff">Früher oder später muss man sich
+</font><font color="#ffffff">seinem Gegner stellen, mein Sohn!</font>
+
+42
+00:04:43,949 --> 00:04:46,660
+<font color="#ffffff">Man muss sich zur Wehr setzen!</font>
+
+43
+00:04:47,161 --> 00:04:49,079
+<font color="#ffffff">Geh, mein Sohn!</font>
+
+44
+00:04:49,705 --> 00:04:54,126
+<font color="#ffffff">Carl, er soll hier nicht spielen!
+</font><font color="#ffffff">- Ja. Entschuldigung, Sir!</font>
+
+45
+00:04:54,627 --> 00:05:00,132
+<font color="#ffffff">Sie wollten mir doch etwas zeigen!
+</font><font color="#ffffff">- Ja, einen Moment, Sir!</font>
+
+46
+00:05:02,843 --> 00:05:06,305
+<font color="#ffffff">(lautes Maschinen-Geräusch)</font>
+
+47
+00:05:06,805 --> 00:05:09,475
+<font color="#ffffff">Was zum Teufel ist da los?</font>
+
+48
+00:05:23,197 --> 00:05:25,699
+<font color="#ffffff">Wer war das?</font>
+
+49
+00:05:26,200 --> 00:05:27,993
+<font color="#ffffff">Ich warte.</font>
+
+50
+00:05:29,828 --> 00:05:32,706
+<font color="#ffffff">Ich, Sir.</font>
+
+51
+00:05:45,803 --> 00:05:50,182
+<font color="#ffffff">Auch ein Parrish darf sich nicht
+</font><font color="#ffffff">an meine Freundin heranmachen!</font>
+
+52
+00:05:50,683 --> 00:05:52,810
+<font color="#00ffff">Wir sind nur Freunde.</font>
+
+53
+00:05:53,310 --> 00:05:56,146
+<font color="#ffffff">Jetzt nicht mehr. Auf Alan!</font>
+
+54
+00:05:57,899 --> 00:05:59,609
+<font color="#ffffff">1,6 KM
+</font><font color="#ffffff">BRANTFORD</font>
+
+55
+00:06:00,192 --> 00:06:02,778
+<font color="#ffffff">Schnell weg hier!</font>
+
+56
+00:06:07,616 --> 00:06:10,119
+<font color="#00ffff">Idioten!</font>
+
+57
+00:06:14,999 --> 00:06:18,252
+<font color="#ffffff">(Trommel-Geräusch)</font>
+
+58
+00:06:27,886 --> 00:06:30,806
+<font color="#ffffff">(Trommel-Geräusch)</font>
+
+59
+00:06:31,141 --> 00:06:35,812
+<font color="#ffffff">IM BAU</font>
+
+60
+00:06:41,316 --> 00:06:44,486
+<font color="#ffffff">(Trommel-Geräusch)</font>
+
+61
+00:06:57,291 --> 00:07:00,002
+<font color="#ffffff">(Trommel-Geräusch)</font>
+
+62
+00:08:05,359 --> 00:08:06,902
+<font color="#00ffff">Wow!</font>
+
+63
+00:08:25,546 --> 00:08:29,258
+<font color="#ffffff">(Wanduhr schlägt)</font>
+
+64
+00:08:56,034 --> 00:08:58,120
+<font color="#00ffff">Super!</font>
+
+65
+00:08:59,456 --> 00:09:03,126
+<font color="#ffffff">ABENTEURER
+</font><font color="#ffffff">PASST AUF:</font>
+
+66
+00:09:05,210 --> 00:09:08,005
+<font color="#ffffff">(weibliche Stimme:) Alan?</font>
+
+67
+00:09:08,505 --> 00:09:10,757
+<font color="#ffffff">Bist du zu Hause?</font>
+
+68
+00:09:14,970 --> 00:09:17,389
+<font color="#ffffff">Oh, Alan!</font>
+
+69
+00:09:17,890 --> 00:09:21,185
+<font color="#ffffff">Nicht schon wieder! Komm mit!</font>
+
+70
+00:09:22,811 --> 00:09:29,359
+<font color="#ffffff">"Harte Arbeit, Entschlossenheit
+</font><font color="#ffffff">und heitere Lebensart, ..."</font>
+
+71
+00:09:29,860 --> 00:09:35,365
+<font color="#ffffff">".. ist beispielhaft
+</font><font color="#ffffff">für den Geist von Brantford."</font>
+
+72
+00:09:35,866 --> 00:09:38,619
+<font color="#ffffff">"Wir haben trotz des rauen Klimas ...</font>
+
+73
+00:09:39,119 --> 00:09:41,288
+<font color="#ffffff">.. Wohlstand geschaffen!"</font>
+
+74
+00:09:41,788 --> 00:09:44,707
+<font color="#ffffff">Ich konnte den Text schon auswendig!
+</font><font color="#ffffff">- Du kannst ihn heute auch!</font>
+
+75
+00:09:44,791 --> 00:09:46,877
+<font color="#ffffff">Ja, hoffentlich!
+</font><font color="#ffffff">- Sam!</font>
+
+76
+00:09:47,377 --> 00:09:49,963
+<font color="#ffffff">Wir müssen mit Alan reden!</font>
+
+77
+00:09:54,009 --> 00:09:57,137
+<font color="#ffffff">Also, wir gehen jetzt!</font>
+
+78
+00:09:57,638 --> 00:09:59,181
+<font color="#00ffff">Okay.</font>
+
+79
+00:09:59,681 --> 00:10:02,976
+<font color="#ffffff">Ich habe deinem Vater gesagt,
+</font><font color="#ffffff">dass es nicht nur Billy allein war!</font>
+
+80
+00:10:03,477 --> 00:10:06,271
+<font color="#ffffff">Ich hätte dich nicht ...</font>
+
+81
+00:10:06,772 --> 00:10:07,981
+<font color="#00ffff">Ist schon gut, Dad.</font>
+
+82
+00:10:08,482 --> 00:10:11,109
+<font color="#ffffff">Ich bin verdammt stolz auf dich!</font>
+
+83
+00:10:11,610 --> 00:10:13,987
+<font color="#ffffff">Du hast dich ihnen gestellt!</font>
+
+84
+00:10:14,488 --> 00:10:21,620
+<font color="#ffffff">Wir haben entschieden, dass du nun
+</font><font color="#ffffff">auf die Cliffside-Knabenschule gehst.</font>
+
+85
+00:10:22,120 --> 00:10:23,957
+<font color="#ffffff">Ich gratuliere dir, mein Schatz!</font>
+
+86
+00:10:24,332 --> 00:10:26,167
+<font color="#ffffff">DIE CLIFFSIDE-SCHULE
+</font><font color="#ffffff">FÜR KNABEN</font>
+
+87
+00:10:26,668 --> 00:10:28,919
+<font color="#00ffff">Ich darf nicht mehr hier bei euch
+</font><font color="#00ffff">wohnen?</font>
+
+88
+00:10:29,419 --> 00:10:30,712
+<font color="#ffffff">Alan!</font>
+
+89
+00:10:31,213 --> 00:10:34,969
+<font color="#ffffff">Es war schon immer geplant,
+</font><font color="#ffffff">dich nach Cliffside zu schicken.</font>
+
+90
+00:10:35,269 --> 00:10:40,973
+<font color="#ffffff">Die Parrishs gehen seit
+</font><font color="#ffffff">dem 18.Jhdt. nach Cliffside!</font>
+
+91
+00:10:41,473 --> 00:10:43,141
+<font color="#00ffff">Sieh mal! Parrish Hall!</font>
+
+92
+00:10:43,642 --> 00:10:46,270
+<font color="#ffffff">Das ist das Internatsgebäude.</font>
+
+93
+00:10:47,479 --> 00:10:52,317
+<font color="#00ffff">Hier sind die Kinder hinter mir her,
+</font><font color="#00ffff">weil ich ein Parrish bin!</font>
+
+94
+00:10:52,818 --> 00:10:56,196
+<font color="#00ffff">Und ich soll in ein Haus ziehen,
+</font><font color="#00ffff">das nach mir benannt ist!</font>
+
+95
+00:10:56,697 --> 00:10:59,032
+<font color="#ffffff">Es wurde nach meinem Vater benannt!</font>
+
+96
+00:10:59,533 --> 00:11:01,868
+<font color="#00ffff">Warum wohnst du dann nicht dort?</font>
+
+97
+00:11:02,369 --> 00:11:05,956
+<font color="#ffffff">Ich war dort! Sonst wäre ich jetzt
+</font><font color="#ffffff">nicht das, was ich bin!</font>
+
+98
+00:11:06,456 --> 00:11:09,001
+<font color="#00ffff">Ich will nicht so werden wie du!</font>
+
+99
+00:11:09,501 --> 00:11:11,878
+<font color="#00ffff">Ich will gar kein Parrish sein!</font>
+
+100
+00:11:12,713 --> 00:11:16,008
+<font color="#ffffff">Mit diesem Benehmen wirst du auch
+</font><font color="#ffffff">keiner!</font>
+
+101
+00:11:16,508 --> 00:11:19,302
+<font color="#ffffff">Sam!
+</font><font color="#ffffff">- Hol deinen Mantel!</font>
+
+102
+00:11:21,346 --> 00:11:24,766
+<font color="#00ffff">Ich bin für Cliffside
+</font><font color="#00ffff">noch nicht reif genug, Dad!</font>
+
+103
+00:11:25,267 --> 00:11:27,144
+<font color="#ffffff">Wir bringen dich nächste Woche hin.</font>
+
+104
+00:11:27,644 --> 00:11:33,316
+<font color="#ffffff">Kein Wort mehr darüber!
+</font><font color="#00ffff">-Ich werde nie wieder mit dir reden!</font>
+
+105
+00:11:38,655 --> 00:11:40,657
+<font color="#ffffff">Sam!
+</font><font color="#ffffff">- Sag nichts!</font>
+
+106
+00:11:41,158 --> 00:11:43,452
+<font color="#ffffff">Sam!
+</font><font color="#ffffff">- Was ist?</font>
+
+107
+00:11:43,952 --> 00:11:44,953
+<font color="#ffffff">Nichts. Fahr!</font>
+
+108
+00:12:04,973 --> 00:12:07,601
+<font color="#ffffff">(Klopfen)</font>
+
+109
+00:12:11,855 --> 00:12:15,609
+<font color="#00ffff">Was willst du denn hier?
+</font><font color="#ffffff">- Ich bringe dir dein Fahrrad.</font>
+
+110
+00:12:16,109 --> 00:12:17,611
+<font color="#00ffff">Wäre nicht nötig gewesen!</font>
+
+111
+00:12:18,111 --> 00:12:20,155
+<font color="#00ffff">Ich wollte es gerade von Billy
+</font><font color="#00ffff">holen.</font>
+
+112
+00:12:20,655 --> 00:12:23,825
+<font color="#ffffff">Ich habe ihm gesagt, er soll nicht
+</font><font color="#ffffff">mehr auf dir herumhacken.</font>
+
+113
+00:12:24,326 --> 00:12:26,620
+<font color="#00ffff">Die Mühe war umsonst.</font>
+
+114
+00:12:27,120 --> 00:12:29,164
+<font color="#ffffff">(Trommel-Geräusch)</font>
+
+115
+00:12:29,664 --> 00:12:33,359
+<font color="#ffffff">Was war das?
+</font><font color="#00ffff">- Hast du es auch gehört?</font>
+
+116
+00:12:33,460 --> 00:12:35,002
+<font color="#ffffff">Klar!</font>
+
+117
+00:12:36,503 --> 00:12:40,008
+<font color="#00ffff">Ich habe ein seltsames Spiel in der
+</font><font color="#00ffff">Fabrik gefunden. Ich zeig es dir!</font>
+
+118
+00:12:40,509 --> 00:12:41,927
+<font color="#ffffff">Ein Spiel?</font>
+
+119
+00:12:57,651 --> 00:12:59,486
+<font color="#00ffff">"Jumanji!"</font>
+
+120
+00:12:59,986 --> 00:13:04,449
+<font color="#00ffff">"Für jeden, der drauf sinnt,
+</font><font color="#00ffff">wie er seiner Welt entrinnt."</font>
+
+121
+00:13:04,950 --> 00:13:08,370
+<font color="#00ffff">"Würfle, um deine Figuren
+</font><font color="#00ffff">zu bewegen!"</font>
+
+122
+00:13:08,870 --> 00:13:10,914
+<font color="#00ffff">"Bei Pasch hast du noch einen Wurf."</font>
+
+123
+00:13:11,415 --> 00:13:12,332
+<font color="#00ffff">Wollen wir spielen?</font>
+
+124
+00:13:12,833 --> 00:13:17,087
+<font color="#ffffff">Ich spiele seit fünf Jahren
+</font><font color="#ffffff">keine Würfelspiele mehr!</font>
+
+125
+00:13:17,587 --> 00:13:19,840
+<font color="#00ffff">Sarah!</font>
+
+126
+00:13:25,178 --> 00:13:28,223
+<font color="#00ffff">Das muss magnetisch sein, oder so!</font>
+
+127
+00:13:28,723 --> 00:13:31,101
+<font color="#ffffff">Alan, da!</font>
+
+128
+00:13:31,935 --> 00:13:35,313
+<font color="#ffffff">"Sie fliegen nachts.
+</font><font color="#ffffff">Fliehe beizeiten!"</font>
+
+129
+00:13:35,814 --> 00:13:41,278
+<font color="#ffffff">"Diese geflügelten Dinge
+</font><font color="#ffffff">nicht viel Freude bereiten."</font>
+
+130
+00:13:44,114 --> 00:13:47,033
+<font color="#ffffff">(Kreischen)</font>
+
+131
+00:13:47,534 --> 00:13:50,454
+<font color="#ffffff">Was war das?
+</font><font color="#00ffff">- Ich ... weiß nicht.</font>
+
+132
+00:13:50,954 --> 00:13:52,747
+<font color="#ffffff">Gib das weg, Alan!
+</font><font color="#00ffff">- Okay!</font>
+
+133
+00:13:53,248 --> 00:13:55,792
+<font color="#ffffff">(Wanduhr schlägt)</font>
+
+134
+00:14:00,297 --> 00:14:03,550
+<font color="#00ffff">Das Spiel denkt, ich habe gewürfelt.</font>
+
+135
+00:14:04,050 --> 00:14:06,470
+<font color="#ffffff">Wie meinst du das?</font>
+
+136
+00:14:08,346 --> 00:14:11,808
+<font color="#00ffff">"Der Würfel muss
+</font><font color="#00ffff">5 oder 8 ergeben, ...</font>
+
+137
+00:14:12,309 --> 00:14:15,770
+<font color="#00ffff">.. sonst musst du
+</font><font color="#00ffff">ewig im Dschungel leben."</font>
+
+138
+00:14:16,271 --> 00:14:19,149
+<font color="#00ffff">Ewig im Dschungel leben?</font>
+
+139
+00:14:19,649 --> 00:14:22,110
+<font color="#00ffff">Was soll das bedeuten?</font>
+
+140
+00:14:23,862 --> 00:14:25,947
+<font color="#00ffff">Aaaah!</font>
+
+141
+00:14:38,752 --> 00:14:42,214
+<font color="#00ffff">Du musst würfeln, Sarah!</font>
+
+142
+00:14:44,257 --> 00:14:45,675
+<font color="#ffffff">Aaaah!</font>
+
+143
+00:14:51,598 --> 00:14:54,434
+<font color="#ffffff">(Die Fledermäuse kreischen.)</font>
+
+144
+00:15:19,168 --> 00:15:21,711
+<font color="#ffffff">26 Jahre später ...</font>
+
+145
+00:15:28,176 --> 00:15:31,179
+<font color="#ffffff">Oh, dieses Haus ist so groß!</font>
+
+146
+00:15:31,680 --> 00:15:34,140
+<font color="#ffffff">Judy! Peter! Seht es euch an!</font>
+
+147
+00:15:34,641 --> 00:15:37,435
+<font color="#ffffff">Hier wird die Rezeption sein!</font>
+
+148
+00:15:37,936 --> 00:15:40,772
+<font color="#ffffff">Und die Bar in dem kleinen Salon!</font>
+
+149
+00:15:44,401 --> 00:15:46,486
+<font color="#ffffff">Das klingt vielversprechend.</font>
+
+150
+00:15:46,987 --> 00:15:50,699
+<font color="#ffffff">Sie und Ihre Kinder werden sich
+</font><font color="#ffffff">hier bestimmt sehr wohl fühlen!</font>
+
+151
+00:15:51,199 --> 00:15:53,201
+<font color="#ffffff">Es sind die Kinder meines Bruders.</font>
+
+152
+00:15:53,702 --> 00:15:58,915
+<font color="#ffffff">Er und seine Frau sind
+</font><font color="#ffffff">im vergangenen Winter gestorben.</font>
+
+153
+00:16:00,625 --> 00:16:03,545
+<font color="#ffffff">Das ist doch etwas Besonderes!</font>
+
+154
+00:16:04,212 --> 00:16:07,632
+<font color="#ffffff">Ja, das ist es.</font>
+
+155
+00:16:19,853 --> 00:16:24,190
+<font color="#ffffff">Ist es groß genug für dich,
+</font><font color="#ffffff">junger Mann?</font>
+
+156
+00:16:34,367 --> 00:16:40,457
+<font color="#ffffff">Peter hat kein Wort mehr gesprochen,
+</font><font color="#ffffff">seit das passiert ist.</font>
+
+157
+00:16:40,957 --> 00:16:43,960
+<font color="#ffffff">Oh, wie schrecklich!</font>
+
+158
+00:16:44,461 --> 00:16:47,672
+<font color="#ffffff">Das muss furchtbar für euch sein!
+</font><font color="#ffffff">- Ist schon gut.</font>
+
+159
+00:16:48,173 --> 00:16:50,258
+<font color="#ffffff">Wir haben unsere Eltern kaum gekannt.</font>
+
+160
+00:16:50,759 --> 00:16:52,844
+<font color="#ffffff">Sie waren immer unterwegs.</font>
+
+161
+00:16:53,345 --> 00:16:58,600
+<font color="#ffffff">In St. Moritz, in Monte Carlo,
+</font><font color="#ffffff">auf Safari im dunkelsten Afrika.</font>
+
+162
+00:16:59,142 --> 00:17:03,355
+<font color="#ffffff">Wir wissen nicht,
+</font><font color="#ffffff">ob sie uns geliebt haben.</font>
+
+163
+00:17:03,855 --> 00:17:08,526
+<font color="#ffffff">Als die Yacht des Scheichs auf
+</font><font color="#ffffff">das Riff lief, ...</font>
+
+164
+00:17:09,027 --> 00:17:14,824
+<font color="#ffffff">.. haben sie uns einen rührenden
+</font><font color="#ffffff">Abschiedsbrief geschrieben.</font>
+
+165
+00:17:15,325 --> 00:17:16,618
+<font color="#ffffff">Entschuldigung!</font>
+
+166
+00:17:23,083 --> 00:17:25,877
+<font color="#ffffff">Ihre Eltern waren sehr liebevoll.</font>
+
+167
+00:17:26,378 --> 00:17:28,213
+<font color="#ffffff">Es war ein Autounfall in Kanada.</font>
+
+168
+00:17:28,713 --> 00:17:32,592
+<font color="#ffffff">Schicken Sie mir die Papiere?
+</font><font color="#ffffff">- Ja, gleich morgen Früh!</font>
+
+169
+00:18:03,206 --> 00:18:05,750
+<font color="#ffffff">Ich muss einen Schlosser rufen!</font>
+
+170
+00:18:06,251 --> 00:18:09,295
+<font color="#ffffff">Peter, räum bitte
+</font><font color="#ffffff">die Spielsachen auf!</font>
+
+171
+00:18:13,550 --> 00:18:18,596
+<font color="#ffffff">Peter, bring bitte den Koffer
+</font><font color="#ffffff">auf den Dachboden!</font>
+
+172
+00:18:19,305 --> 00:18:22,434
+<font color="#ffffff">Dann gibt es Eiscreme und Burger!</font>
+
+173
+00:18:38,032 --> 00:18:41,202
+<font color="#ffffff">(Die Fledermäuse kreischen.)</font>
+
+174
+00:18:41,703 --> 00:18:44,372
+<font color="#ffffff">(Peter schreit.)</font>
+
+175
+00:18:49,169 --> 00:18:51,171
+<font color="#ffffff">Was ist los?</font>
+
+176
+00:18:51,671 --> 00:18:53,465
+<font color="#ffffff">(Klopf-Geräusch)</font>
+
+177
+00:18:53,965 --> 00:18:57,343
+<font color="#ffffff">Ich übernachte lieber im Hilton!
+</font><font color="#ffffff">- Rede keinen Unsinn!</font>
+
+178
+00:19:10,690 --> 00:19:12,567
+<font color="#ffffff">(Die Fledermäuse flattern.)</font>
+
+179
+00:19:23,203 --> 00:19:26,039
+<font color="#ffffff">Ich sehe hier nirgends Kot!</font>
+
+180
+00:19:29,375 --> 00:19:32,045
+<font color="#ffffff">Er hat gesagt, sie sah so aus!</font>
+
+181
+00:19:32,545 --> 00:19:35,548
+<font color="#ffffff">Das ist eine afrikanische Fledermaus.</font>
+
+182
+00:19:36,049 --> 00:19:39,052
+<font color="#ffffff">Die gibt es hier
+</font><font color="#ffffff">in Neu-England nicht!</font>
+
+183
+00:19:39,552 --> 00:19:44,849
+<font color="#ffffff">Aber er hat so eine gesehen!
+</font><font color="#ffffff">- Aber jetzt ist sie nicht mehr da!</font>
+
+184
+00:19:45,642 --> 00:19:52,148
+<font color="#ffffff">In diesem Haus sind Fledermäuse
+</font><font color="#ffffff">das geringste Problem.</font>
+
+185
+00:19:52,649 --> 00:19:58,404
+<font color="#ffffff">Ich würde nicht gerne in einem Haus
+</font><font color="#ffffff">wohnen, wo jemand ermordet wurde.</font>
+
+186
+00:19:58,905 --> 00:20:00,657
+<font color="#ffffff">Ermordet?</font>
+
+187
+00:20:01,157 --> 00:20:03,618
+<font color="#ffffff">Ja, der kleine Alan Parrish.</font>
+
+188
+00:20:04,118 --> 00:20:06,704
+<font color="#ffffff">Es war bestimmt sein Vater.</font>
+
+189
+00:20:07,205 --> 00:20:13,086
+<font color="#ffffff">Er hat die zerstückelte Leiche
+</font><font color="#ffffff">im Haus spurlos verschwinden lassen.</font>
+
+190
+00:20:13,586 --> 00:20:15,755
+<font color="#ffffff">Kinder, beeilt euch!</font>
+
+191
+00:20:16,256 --> 00:20:19,926
+<font color="#ffffff">Ihr kommt sonst am ersten Schultag
+</font><font color="#ffffff">zu spät!</font>
+
+192
+00:20:21,135 --> 00:20:23,555
+<font color="#ffffff">Weit und breit keine Fledermaus!</font>
+
+193
+00:20:24,055 --> 00:20:29,686
+<font color="#ffffff">Habt ihr gehört? Hier gibt es nichts
+</font><font color="#ffffff">zum Fürchten!</font>
+
+194
+00:20:54,711 --> 00:21:00,925
+<font color="#ffffff">Schon nach dem ersten Schultag werde
+</font><font color="#ffffff">ich zum Direktor vorgeladen!</font>
+
+195
+00:21:01,426 --> 00:21:04,220
+<font color="#ffffff">Was mache ich nur mit euch?</font>
+
+196
+00:21:04,721 --> 00:21:07,015
+<font color="#ffffff">Versuchen wir uns zu entspannen!</font>
+
+197
+00:21:07,515 --> 00:21:11,978
+<font color="#ffffff">Wir wissen, warum das Haus
+</font><font color="#ffffff">so billig war.</font>
+
+198
+00:21:12,478 --> 00:21:16,232
+<font color="#ffffff">Alan Parrish hat vor 26 Jahren hier
+</font><font color="#ffffff">gewohnt.</font>
+
+199
+00:21:16,733 --> 00:21:18,860
+<font color="#ffffff">Er verschwand eines Tages spurlos.</font>
+
+200
+00:21:19,360 --> 00:21:22,780
+<font color="#ffffff">Seine Eltern haben ihn ermordet
+</font><font color="#ffffff">und in die Wand eingemauert!</font>
+
+201
+00:21:23,281 --> 00:21:24,365
+<font color="#ffffff">Jetzt reichts!</font>
+
+202
+00:21:24,866 --> 00:21:27,243
+<font color="#ffffff">Du hast Hausarrest!</font>
+
+203
+00:21:28,161 --> 00:21:34,125
+<font color="#ffffff">In diesem blöden Kaff kann man
+</font><font color="#ffffff">sowieso nirgendwo hingehen!</font>
+
+204
+00:21:34,626 --> 00:21:37,462
+<font color="#ffffff">Es war keine Lüge!</font>
+
+205
+00:21:42,383 --> 00:21:45,136
+<font color="#ffffff">(Trommel-Geräusch)</font>
+
+206
+00:21:46,512 --> 00:21:49,390
+<font color="#ffffff">(Trommel-Geräusch)</font>
+
+207
+00:22:12,747 --> 00:22:15,458
+<font color="#ffffff">Hast du dieses Geräusch auch gehört?</font>
+
+208
+00:22:19,170 --> 00:22:21,965
+<font color="#ffffff">Vermisst du Mum und Dad auch so?</font>
+
+209
+00:22:22,465 --> 00:22:23,925
+<font color="#ffffff">Nein.</font>
+
+210
+00:22:24,425 --> 00:22:26,177
+<font color="#ffffff">Lügnerin!</font>
+
+211
+00:22:26,678 --> 00:22:29,722
+<font color="#ffffff">Sie werden dich zu
+</font><font color="#ffffff">einem Psychiater schicken!</font>
+
+212
+00:22:30,223 --> 00:22:33,142
+<font color="#ffffff">Dich auch, wenn du nicht redest!</font>
+
+213
+00:22:45,905 --> 00:22:49,033
+<font color="#ffffff">(Trommel-Geräusch)</font>
+
+214
+00:22:50,785 --> 00:22:54,038
+<font color="#ffffff">Ich rufe euch an,
+</font><font color="#ffffff">wenn es länger dauert!</font>
+
+215
+00:22:54,539 --> 00:22:56,541
+<font color="#ffffff">Der Schulbus kommt gleich!</font>
+
+216
+00:22:57,041 --> 00:23:00,086
+<font color="#ffffff">(Trommel-Geräusch)</font>
+
+217
+00:23:00,586 --> 00:23:03,297
+<font color="#ffffff">Habt ihr eure Hausschlüssel?</font>
+
+218
+00:23:03,798 --> 00:23:05,925
+<font color="#ffffff">Kinder, hört ihr mir zu?</font>
+
+219
+00:23:06,426 --> 00:23:08,812
+<font color="#ffffff">(Trommel-Geräusch)</font>
+
+220
+00:23:09,112 --> 00:23:10,804
+<font color="#ffffff">Hallo!!
+</font><font color="#ffffff">- Was ist?</font>
+
+221
+00:23:12,473 --> 00:23:16,144
+<font color="#ffffff">Ich warte lieber, bis euer Bus kommt!</font>
+
+222
+00:23:16,644 --> 00:23:20,314
+<font color="#ffffff">Haben euch eure Eltern immer zum Bus
+</font><font color="#ffffff">gebracht?</font>
+
+223
+00:23:20,815 --> 00:23:21,816
+<font color="#ffffff">Nein. Nein.</font>
+
+224
+00:23:22,316 --> 00:23:24,777
+<font color="#ffffff">Bist du sicher?</font>
+
+225
+00:23:25,278 --> 00:23:28,781
+<font color="#ffffff">Wollt ihr lieber mit mir fahren?
+</font><font color="#ffffff">- Mach dir bitte keine Sorgen um uns.</font>
+
+226
+00:23:29,073 --> 00:23:30,199
+<font color="#ffffff">Okay.</font>
+
+227
+00:23:30,992 --> 00:23:33,953
+<font color="#ffffff">Bitte benehmt euch heute!</font>
+
+228
+00:23:42,587 --> 00:23:46,591
+<font color="#ffffff">Du hast es doch auch gehört!
+</font><font color="#ffffff">- Nein. Was denn?</font>
+
+229
+00:23:47,717 --> 00:23:50,178
+<font color="#ffffff">(Trommel-Geräusch)</font>
+
+230
+00:23:50,678 --> 00:23:56,100
+<font color="#ffffff">(Das Trommel-Geräusch wird immer
+</font><font color="#ffffff">lauter.)</font>
+
+231
+00:23:59,812 --> 00:24:02,815
+<font color="#ffffff">Woher kommt dieses Trommeln?</font>
+
+232
+00:24:08,071 --> 00:24:11,949
+<font color="#ffffff">(Trommel-Geräusch)</font>
+
+233
+00:24:12,950 --> 00:24:15,787
+<font color="#ffffff">(Trommel-Geräusch)</font>
+
+234
+00:24:16,871 --> 00:24:19,123
+<font color="#ffffff">Aaaah!</font>
+
+235
+00:24:19,624 --> 00:24:23,669
+<font color="#ffffff">(Das Trommel-Geräusch wird lauter
+</font><font color="#ffffff">und lauter.)</font>
+
+236
+00:24:28,257 --> 00:24:31,260
+<font color="#ffffff">(Stille)</font>
+
+237
+00:24:36,724 --> 00:24:39,602
+<font color="#ffffff">Bring es da rüber!</font>
+
+238
+00:24:51,114 --> 00:24:53,825
+<font color="#ffffff">Komisch! Die bewegen sich nicht!</font>
+
+239
+00:24:54,325 --> 00:24:56,661
+<font color="#ffffff">"Jumanji."</font>
+
+240
+00:24:57,161 --> 00:25:02,291
+<font color="#ffffff">"Für jeden, der drauf sinnt,
+</font><font color="#ffffff">wie er seiner Welt entrinnt."</font>
+
+241
+00:25:02,792 --> 00:25:05,586
+<font color="#ffffff">"Wer zuerst das Ziel erreicht,
+</font><font color="#ffffff">gewinnt."</font>
+
+242
+00:25:09,549 --> 00:25:12,844
+<font color="#ffffff">Da müssen Mikrochips drin sein!</font>
+
+243
+00:25:14,512 --> 00:25:17,098
+<font color="#ffffff">Würfle du zuerst!</font>
+
+244
+00:25:17,598 --> 00:25:19,267
+<font color="#ffffff">Okay.</font>
+
+245
+00:25:22,436 --> 00:25:23,771
+<font color="#ffffff">Sechs!</font>
+
+246
+00:25:37,451 --> 00:25:40,538
+<font color="#ffffff">"Ein kleiner Stich könnte dich
+</font><font color="#ffffff">jucken."</font>
+
+247
+00:25:41,038 --> 00:25:43,624
+<font color="#ffffff">"Bringt dich zum Niesen und
+</font><font color="#ffffff">zum Zucken."</font>
+
+248
+00:25:44,125 --> 00:25:45,585
+<font color="#ffffff">(Die Insekten brummen.)</font>
+
+249
+00:25:56,429 --> 00:25:59,223
+<font color="#ffffff">(Die Insekten brummen.)</font>
+
+250
+00:26:19,368 --> 00:26:20,786
+<font color="#ffffff">Nicht!</font>
+
+251
+00:26:25,458 --> 00:26:28,252
+<font color="#ffffff">"Das wird keine leichte Mission."</font>
+
+252
+00:26:28,753 --> 00:26:31,172
+<font color="#ffffff">"Affen behindern die Expedition."</font>
+
+253
+00:26:31,672 --> 00:26:34,342
+<font color="#ffffff">(Scheppern und Rumpeln)</font>
+
+254
+00:26:34,842 --> 00:26:37,303
+<font color="#ffffff">Was ist das?</font>
+
+255
+00:26:41,891 --> 00:26:44,602
+<font color="#ffffff">(Kreischen)</font>
+
+256
+00:27:17,426 --> 00:27:20,471
+<font color="#ffffff">Diese Affen sind aus dem Spiel
+</font><font color="#ffffff">gekommen!</font>
+
+257
+00:27:20,972 --> 00:27:22,640
+<font color="#ffffff">Die Moskitos auch!</font>
+
+258
+00:27:23,432 --> 00:27:26,852
+<font color="#ffffff">Das hatte ich übersehen!</font>
+
+259
+00:27:29,438 --> 00:27:32,608
+<font color="#ffffff">"Abenteurer, passt auf!"</font>
+
+260
+00:27:33,109 --> 00:27:35,444
+<font color="#ffffff">(Tür fällt ins Schloss)</font>
+
+261
+00:27:35,945 --> 00:27:42,159
+<font color="#ffffff">"Beginnt nur,
+</font><font color="#ffffff">wenn ihr auch zu Ende spielt."</font>
+
+262
+00:27:42,660 --> 00:27:46,872
+<font color="#ffffff">"Die aufregenden Konsequenzen
+</font><font color="#ffffff">des Spiels werden verjagt, ..."</font>
+
+263
+00:27:47,373 --> 00:27:50,126
+<font color="#ffffff">".. hast du das Ziel erreicht
+</font><font color="#ffffff">und Jumanji gesagt."</font>
+
+264
+00:27:50,626 --> 00:27:51,877
+<font color="#ffffff">Die Affen sind weg!</font>
+
+265
+00:27:52,378 --> 00:27:54,171
+<font color="#ffffff">Hören wir auf!
+</font><font color="#ffffff">- Warte!</font>
+
+266
+00:27:54,255 --> 00:27:59,468
+<font color="#ffffff">Wir müssen es zu Ende spielen,
+</font><font color="#ffffff">damit alle Spuren verschwinden!</font>
+
+267
+00:27:59,969 --> 00:28:03,681
+<font color="#ffffff">Tante Nora bekommt sonst
+</font><font color="#ffffff">einen Anfall!</font>
+
+268
+00:28:04,974 --> 00:28:08,102
+<font color="#ffffff">Nein. Du hattest einen Pasch.</font>
+
+269
+00:28:08,602 --> 00:28:11,230
+<font color="#ffffff">Du bist wieder dran! Mach schon!</font>
+
+270
+00:28:11,731 --> 00:28:12,648
+<font color="#ffffff">Fünf!</font>
+
+271
+00:28:16,319 --> 00:28:22,575
+<font color="#ffffff">"Seine Fänge sind scharf.
+</font><font color="#ffffff">Er mag euren Geschmack."</font>
+
+272
+00:28:23,075 --> 00:28:25,578
+<font color="#ffffff">"Zieht schnell weiter, zackzack!"</font>
+
+273
+00:28:26,078 --> 00:28:28,539
+<font color="#ffffff">Das klingt gar nicht gut!</font>
+
+274
+00:28:29,040 --> 00:28:31,792
+<font color="#ffffff">Hier ist jemand!</font>
+
+275
+00:28:43,387 --> 00:28:47,099
+<font color="#ffffff">(Knurren)</font>
+
+276
+00:28:52,021 --> 00:28:54,899
+<font color="#ffffff">Der ist nicht echt, Peter!</font>
+
+277
+00:28:55,399 --> 00:28:57,818
+<font color="#ffffff">Das ist eine Einbildung!</font>
+
+278
+00:28:58,319 --> 00:29:01,197
+<font color="#ffffff">Lauf, Peter!</font>
+
+279
+00:29:29,558 --> 00:29:30,518
+<font color="#00ffff">Ha!</font>
+
+280
+00:29:32,018 --> 00:29:33,028
+<font color="#00ffff">Ha!</font>
+
+281
+00:30:02,550 --> 00:30:05,594
+<font color="#ffffff">(Sie schreien.)</font>
+
+282
+00:30:32,872 --> 00:30:35,916
+<font color="#00ffff">Ich bin zurück!</font>
+
+283
+00:30:43,048 --> 00:30:44,842
+<font color="#00ffff">Mein Fahrrad.</font>
+
+284
+00:31:29,136 --> 00:31:33,474
+<font color="#00ffff">Hat jemand 5 oder 8 gewürfelt?</font>
+
+285
+00:31:34,808 --> 00:31:37,061
+<font color="#ffffff">Er war es.</font>
+
+286
+00:31:37,811 --> 00:31:40,397
+<font color="#00ffff">Hahaha!</font>
+
+287
+00:31:40,898 --> 00:31:43,817
+<font color="#ffffff">(Peter schreit.)</font>
+
+288
+00:31:44,985 --> 00:31:48,364
+<font color="#00ffff">Danke! Danke! Danke!</font>
+
+289
+00:31:48,864 --> 00:31:50,950
+<font color="#00ffff">Danke.</font>
+
+290
+00:31:51,450 --> 00:31:56,914
+<font color="#00ffff">Tut mir leid, dass ich dich
+</font><font color="#00ffff">erschreckt habe!</font>
+
+291
+00:31:57,414 --> 00:32:00,084
+<font color="#00ffff">(schreit:) Ich bin wieder da! Mum!
+</font><font color="#00ffff">Dad!</font>
+
+292
+00:32:00,709 --> 00:32:03,254
+<font color="#00ffff">Ich bin zurück!</font>
+
+293
+00:32:03,754 --> 00:32:05,881
+<font color="#00ffff">Ich bin wieder zu Hause!</font>
+
+294
+00:32:06,382 --> 00:32:08,968
+<font color="#00ffff">Ich bin es: Alan!</font>
+
+295
+00:32:09,468 --> 00:32:10,594
+<font color="#00ffff">Mum! Dad!</font>
+
+296
+00:32:11,095 --> 00:32:13,430
+<font color="#00ffff">Ich bin zurückgekommen!</font>
+
+297
+00:32:13,931 --> 00:32:15,808
+<font color="#00ffff">Ich bin wieder da.</font>
+
+298
+00:32:16,308 --> 00:32:18,936
+<font color="#00ffff">Bist du meine kleine Schwester?
+</font><font color="#ffffff">- Nein.</font>
+
+299
+00:32:19,436 --> 00:32:21,647
+<font color="#ffffff">Ich bin Judy, und das ist Peter.</font>
+
+300
+00:32:22,147 --> 00:32:24,692
+<font color="#00ffff">Wo ist Mum? Ist Dad in der Fabrik?</font>
+
+301
+00:32:25,192 --> 00:32:27,778
+<font color="#ffffff">Sind Sie .. Alan Parrish?</font>
+
+302
+00:32:28,279 --> 00:32:30,030
+<font color="#00ffff">Ja.</font>
+
+303
+00:32:30,531 --> 00:32:34,827
+<font color="#00ffff">Und wer seid ihr?
+</font><font color="#ffffff">- Wir wohnen jetzt hier.</font>
+
+304
+00:32:35,327 --> 00:32:37,162
+<font color="#00ffff">Wo sind Mum und Dad?</font>
+
+305
+00:32:37,663 --> 00:32:40,165
+<font color="#ffffff">Wir wissen es nicht.</font>
+
+306
+00:32:40,666 --> 00:32:44,378
+<font color="#ffffff">Das Haus stand viele Jahre leer.</font>
+
+307
+00:32:44,878 --> 00:32:47,673
+<font color="#ffffff">Alle dachten, Sie wären tot!</font>
+
+308
+00:32:57,016 --> 00:32:59,018
+<font color="#ffffff">Es tut uns leid!</font>
+
+309
+00:33:04,231 --> 00:33:09,361
+<font color="#ffffff">Beschreibung wiederholen!
+</font><font color="#ffffff">- (Funk:) Rotes Fell und Schwanz!</font>
+
+310
+00:33:11,947 --> 00:33:13,782
+<font color="#ffffff">(Bremsen quietschen)</font>
+
+311
+00:33:14,283 --> 00:33:15,075
+<font color="#ffffff">Nein!</font>
+
+312
+00:33:17,286 --> 00:33:20,164
+<font color="#ffffff">Gehen Sie von meinem Wagen runter!</font>
+
+313
+00:33:20,664 --> 00:33:22,833
+<font color="#ffffff">Gehen Sie auf den Gehsteig!</font>
+
+314
+00:33:23,334 --> 00:33:25,210
+<font color="#00ffff">Welches Jahr?</font>
+
+315
+00:33:25,711 --> 00:33:30,132
+<font color="#ffffff">Der Wagen ist ganz neu.
+</font><font color="#00ffff">- Nein. Welches Jahr ist jetzt?</font>
+
+316
+00:33:30,633 --> 00:33:33,802
+<font color="#ffffff">1995, das weißt du doch!
+</font><font color="#00ffff">- 1995?</font>
+
+317
+00:33:34,303 --> 00:33:36,263
+<font color="#ffffff">Haben Sie einen Ausweis?</font>
+
+318
+00:33:36,764 --> 00:33:39,642
+<font color="#ffffff">Ist wohl im anderen Tarzan-Kostüm?!
+</font><font color="#00ffff">- 26 Jahre?</font>
+
+319
+00:33:40,142 --> 00:33:42,435
+<font color="#ffffff">Sind Sie aus dieser Gegend?
+</font><font color="#00ffff">- Ich war es!</font>
+
+320
+00:33:42,686 --> 00:33:44,730
+<font color="#00ffff">Aber ich war in Jumanji!</font>
+
+321
+00:33:45,230 --> 00:33:48,859
+<font color="#ffffff">Er war Entwicklungshelfer
+</font><font color="#ffffff">in Indonesien!</font>
+
+322
+00:33:49,319 --> 00:33:49,610
+<font color="#ffffff">C. BENTLEY
+</font><font color="#ffffff">SEIT 1974 IM DIENST</font>
+<i> </i>
+<i> </i>
+
+323
+00:33:49,610 --> 00:33:50,779
+<font color="#ffffff">C. BENTLEY
+</font><font color="#ffffff">SEIT 1974 IM DIENST</font>
+<i> </i>
+<font color="#00ffff">Bentley!</font>
+
+324
+00:33:50,779 --> 00:33:51,320
+<font color="#00ffff">Bentley!</font>
+
+325
+00:33:54,782 --> 00:33:57,618
+<font color="#00ffff">Carl Bentley, der Sohlenmeister!</font>
+
+326
+00:33:58,118 --> 00:34:01,664
+<font color="#ffffff">Ist dieser Mann mit euch verwandt?
+</font><font color="#ffffff">- (Judy:) Ja, er ist unser Onkel.</font>
+
+327
+00:34:02,164 --> 00:34:04,917
+<font color="#ffffff">Läuft er immer so herum?
+</font><font color="#ffffff">- (Judy:) Ja, er ist Vegetarier.</font>
+
+328
+00:34:05,417 --> 00:34:07,795
+<font color="#00ffff">Schert euch da raus! Ah! Ah!</font>
+
+329
+00:34:08,296 --> 00:34:08,797
+<font color="#00ffff">Uh! Uh! Uh!</font>
+
+330
+00:34:08,797 --> 00:34:10,922
+<font color="#ffffff">POLIZEI</font>
+<i> </i>
+<i> </i>
+<i> </i>
+<font color="#00ffff">Uh! Uh! Uh!</font>
+
+331
+00:34:10,922 --> 00:34:10,966
+<font color="#ffffff">POLIZEI</font>
+<i> </i>
+<i> </i>
+<i> </i>
+<i> </i>
+
+332
+00:34:11,882 --> 00:34:13,634
+<font color="#00ffff">Affen!</font>
+
+333
+00:34:14,134 --> 00:34:15,344
+<font color="#00ffff">Affen!</font>
+
+334
+00:34:16,428 --> 00:34:21,725
+<font color="#ffffff">Ist er nicht ganz dicht?
+</font><font color="#ffffff">- Er hatte einen schweren Unfall.</font>
+
+335
+00:34:22,226 --> 00:34:23,727
+<font color="#00ffff">Uh! Uh! Ah! Ah!</font>
+
+336
+00:34:33,946 --> 00:34:36,198
+<font color="#ffffff">Was? Was? Keine Bewegung!</font>
+
+337
+00:34:36,699 --> 00:34:38,492
+<font color="#ffffff">Halt! Stopp!</font>
+
+338
+00:34:38,992 --> 00:34:41,078
+<font color="#00ffff">Keine Bewegung? Vonwegen!</font>
+
+339
+00:34:41,578 --> 00:34:44,164
+<font color="#ffffff">Hey, warte! Wo willst du hin?</font>
+
+340
+00:34:44,665 --> 00:34:47,501
+<font color="#00ffff">Meine Eltern suchen!</font>
+
+341
+00:34:48,001 --> 00:34:48,836
+<font color="#ffffff">Komm!</font>
+
+342
+00:35:15,529 --> 00:35:17,156
+<font color="#ffffff">Warte!</font>
+
+343
+00:36:07,082 --> 00:36:08,124
+<font color="#ffffff">Parrish
+</font><font color="#ffffff">SCHUHE</font>
+
+344
+00:36:11,835 --> 00:36:16,924
+<font color="#00ffff">Mein Dad hat hier früher
+</font><font color="#00ffff">Schuhe hergestellt.</font>
+
+345
+00:36:17,424 --> 00:36:20,803
+<font color="#00ffff">Es waren die besten Schuhe
+</font><font color="#00ffff">von Neu-England.</font>
+
+346
+00:36:21,303 --> 00:36:22,638
+<font color="#00ffff">Hey!</font>
+
+347
+00:36:25,850 --> 00:36:26,893
+<font color="#ffffff">SAM PARRISH
+</font><font color="#ffffff">DIREKTOR</font>
+
+348
+00:36:30,062 --> 00:36:31,980
+<font color="#00ffff">Entschuldigung!</font>
+
+349
+00:36:32,898 --> 00:36:36,026
+<font color="#ffffff">Ruhig, mein Mädchen!</font>
+
+350
+00:36:39,321 --> 00:36:43,325
+<font color="#00ffff">Wissen Sie, was aus
+</font><font color="#00ffff">der Schuh-Fabrik geworden ist?</font>
+
+351
+00:36:43,826 --> 00:36:46,119
+<font color="#ffffff">Die Fabrik ging pleite.</font>
+
+352
+00:36:46,620 --> 00:36:49,122
+<font color="#ffffff">So wie alles andere in der Stadt.</font>
+
+353
+00:36:49,623 --> 00:36:52,417
+<font color="#ffffff">Wie wäre es mit einem Kaffee?</font>
+
+354
+00:36:52,918 --> 00:36:55,587
+<font color="#00ffff">Warum hat man die Fabrik
+</font><font color="#00ffff">geschlossen?</font>
+
+355
+00:36:56,088 --> 00:36:59,049
+<font color="#ffffff">Sam wollte seinen Buben wiederfinden.</font>
+
+356
+00:36:59,550 --> 00:37:04,805
+<font color="#ffffff">Er hat dafür sein ganzes Vermögen
+</font><font color="#ffffff">und seine Zeit geopfert.</font>
+
+357
+00:37:05,305 --> 00:37:07,975
+<font color="#ffffff">Er kam nicht mehr zur Arbeit.</font>
+
+358
+00:37:08,475 --> 00:37:11,270
+<font color="#ffffff">Es war ihm alles egal.</font>
+
+359
+00:37:11,770 --> 00:37:17,192
+<font color="#ffffff">Niemand hat seinen Sohn
+</font><font color="#ffffff">so sehr geliebt wie Sam!</font>
+
+360
+00:37:17,985 --> 00:37:21,196
+<font color="#ffffff">Hier! Sie erfrieren sonst da draußen!</font>
+
+361
+00:37:24,700 --> 00:37:26,201
+<font color="#00ffff">Danke.</font>
+
+362
+00:37:26,702 --> 00:37:29,580
+<font color="#00ffff">Sind die Parrishs hier
+</font><font color="#00ffff">in der Gegend?</font>
+
+363
+00:37:30,080 --> 00:37:31,999
+<font color="#ffffff">Ich besuche sie manchmal.</font>
+
+364
+00:37:32,499 --> 00:37:33,292
+<font color="#00ffff">Ja?!</font>
+
+365
+00:37:33,792 --> 00:37:36,378
+<font color="#ffffff">Sie finden sie an der Adam-Straße.</font>
+
+366
+00:37:52,895 --> 00:37:56,732
+<font color="#ffffff">Wir haben unsere Eltern auch
+</font><font color="#ffffff">verloren.</font>
+
+367
+00:37:58,734 --> 00:38:01,737
+<font color="#ffffff">Sie waren im Mittleren Osten ...</font>
+
+368
+00:38:08,201 --> 00:38:11,038
+<font color="#ffffff">Unser Dad arbeitete in der Werbung.</font>
+
+369
+00:38:12,164 --> 00:38:15,125
+<font color="#00ffff">Bestimmt fehlt er dir sehr!</font>
+
+370
+00:38:15,626 --> 00:38:17,502
+<font color="#00ffff">Mir auch.</font>
+
+371
+00:38:21,089 --> 00:38:24,176
+<font color="#ffffff">Er rennt schon wieder weg!</font>
+
+372
+00:38:26,261 --> 00:38:29,431
+<font color="#ffffff">Wir müssen das Spiel zu Ende spielen.</font>
+
+373
+00:38:29,932 --> 00:38:32,517
+<font color="#00ffff">Wir? Wozu braucht ihr mich?</font>
+
+374
+00:38:33,018 --> 00:38:35,938
+<font color="#ffffff">Wenn andere schreckliche Dinge
+</font><font color="#ffffff">herauskommen!</font>
+
+375
+00:38:36,438 --> 00:38:40,734
+<font color="#ffffff">Wir müssen den Löwen loswerden!
+</font><font color="#00ffff">- Sehe ich so aus wie ein Dompteur?</font>
+
+376
+00:38:41,234 --> 00:38:42,945
+<font color="#ffffff">Unsere Tante kommt bald nach Hause!</font>
+
+377
+00:38:43,445 --> 00:38:45,906
+<font color="#00ffff">Hoffentlich hat sie
+</font><font color="#00ffff">keine Katzen-Allergie!</font>
+
+378
+00:38:46,406 --> 00:38:48,533
+<font color="#ffffff">(Sirene)</font>
+
+379
+00:39:00,629 --> 00:39:03,423
+<font color="#ffffff">Wir brauchen die Trage!</font>
+
+380
+00:39:03,924 --> 00:39:05,842
+<font color="#ffffff">Haben wir sie so schwer erwischt?</font>
+
+381
+00:39:06,343 --> 00:39:09,972
+<font color="#ffffff">Nein, das ist einer dieser
+</font><font color="#ffffff">seltsamen Stiche!</font>
+
+382
+00:39:14,267 --> 00:39:17,646
+<font color="#ffffff">Ja, es ist ein Stich.</font>
+
+383
+00:39:18,146 --> 00:39:20,482
+<font color="#ffffff">Das ist schon der fünfzigste Fall!</font>
+
+384
+00:39:20,983 --> 00:39:24,903
+<font color="#ffffff">Was sind das für Viecher?
+</font><font color="#ffffff">- Ist das nicht die Immobilien-Tante?</font>
+
+385
+00:39:25,404 --> 00:39:27,531
+<font color="#00ffff">Ruhig! Hört ihr?</font>
+
+386
+00:39:28,031 --> 00:39:29,491
+<font color="#00ffff">Hast du das gehört?</font>
+
+387
+00:39:29,992 --> 00:39:31,451
+<font color="#ffffff">Nein. Was denn?</font>
+
+388
+00:39:31,952 --> 00:39:33,954
+<font color="#00ffff">Steigt ein, schnell!</font>
+
+389
+00:39:38,917 --> 00:39:43,296
+<font color="#00ffff">Was kam aus dem Spiel,
+</font><font color="#00ffff">bevor ich gekommen bin?</font>
+
+390
+00:39:43,797 --> 00:39:46,258
+<font color="#ffffff">Die Affen, der Löwe und ...</font>
+
+391
+00:39:46,758 --> 00:39:47,592
+<font color="#ffffff">Das!</font>
+
+392
+00:39:48,093 --> 00:39:50,262
+<font color="#ffffff">(lautes Brummen)</font>
+
+393
+00:39:50,762 --> 00:39:53,515
+<font color="#00ffff">Ist schon okay. Ist nur ein Moskito.</font>
+
+394
+00:39:54,016 --> 00:39:56,560
+<font color="#00ffff">Hier drin sind wir sicher!</font>
+
+395
+00:40:00,188 --> 00:40:03,567
+<font color="#00ffff">Kein Grund zur Sorge!</font>
+
+396
+00:40:04,067 --> 00:40:06,778
+<font color="#00ffff">Er kommt hier nicht rein!</font>
+
+397
+00:40:07,279 --> 00:40:09,740
+<font color="#00ffff">Er kann nicht durch das Glas!</font>
+
+398
+00:40:10,240 --> 00:40:12,659
+<font color="#00ffff">Wir sind sicher.</font>
+
+399
+00:40:14,077 --> 00:40:17,122
+<font color="#00ffff">Kann jemand von euch fahren?</font>
+
+400
+00:40:17,622 --> 00:40:20,292
+<font color="#00ffff">Das ist kein Problem.</font>
+
+401
+00:40:20,792 --> 00:40:24,421
+<font color="#00ffff">Mein Vater hat mich
+</font><font color="#00ffff">einmal einparken lassen.</font>
+
+402
+00:40:24,921 --> 00:40:27,257
+<font color="#ffffff">Schnall uns an!</font>
+
+403
+00:40:29,134 --> 00:40:30,927
+<font color="#00ffff">Na bitte!</font>
+
+404
+00:40:32,846 --> 00:40:35,265
+<font color="#00ffff">Moment!</font>
+
+405
+00:40:39,019 --> 00:40:41,480
+<font color="#ffffff">Nicht aufmachen!</font>
+
+406
+00:40:50,155 --> 00:40:51,656
+<font color="#ffffff">(Hupen)</font>
+
+407
+00:40:57,913 --> 00:41:00,707
+<font color="#00ffff">War doch kinderleicht!</font>
+
+408
+00:41:17,766 --> 00:41:19,267
+<font color="#ffffff">Alan?</font>
+
+409
+00:41:19,768 --> 00:41:21,061
+<font color="#00ffff">Aaaaah!</font>
+
+410
+00:41:21,561 --> 00:41:23,563
+<font color="#00ffff">Bleibt mir damit vom Leib!</font>
+
+411
+00:41:25,190 --> 00:41:27,567
+<font color="#ffffff">Hilf uns weiterspielen!</font>
+
+412
+00:41:28,068 --> 00:41:30,612
+<font color="#ffffff">Meine Tante kommt bald nach Hause!</font>
+
+413
+00:41:31,113 --> 00:41:36,785
+<font color="#00ffff">Ihr könnt ihr sagen, dass sie
+</font><font color="#00ffff">die Ex-Besitzerin des Hauses ist!</font>
+
+414
+00:41:37,285 --> 00:41:38,912
+<font color="#00ffff">Dieses Haus gehört mir!</font>
+
+415
+00:41:41,873 --> 00:41:44,167
+<font color="#00ffff">Oh danke!</font>
+
+416
+00:41:44,668 --> 00:41:47,712
+<font color="#00ffff">Nie mehr Bananenblätter!</font>
+
+417
+00:41:50,257 --> 00:41:51,716
+<font color="#ffffff">(Klospülung)</font>
+
+418
+00:41:53,927 --> 00:41:58,598
+<font color="#ffffff">Die Affen werden für das
+</font><font color="#ffffff">Öko-System hier sehr schädlich sein!</font>
+
+419
+00:41:59,099 --> 00:42:00,642
+<font color="#ffffff">Hallo!</font>
+
+420
+00:42:01,143 --> 00:42:03,687
+<font color="#ffffff">(Er singt.)</font>
+
+421
+00:42:31,798 --> 00:42:35,510
+<font color="#ffffff">Was ist denn mit dir los? Hast du
+</font><font color="#ffffff">dich mit einer Scherbe rasiert?</font>
+
+422
+00:42:36,011 --> 00:42:38,263
+<font color="#00ffff">"Was ist denn mit dir los?"</font>
+
+423
+00:42:38,763 --> 00:42:41,349
+<font color="#00ffff">Das war meine erste Rasur.</font>
+
+424
+00:42:42,225 --> 00:42:44,895
+<font color="#ffffff">Wo gehst du hin?</font>
+
+425
+00:42:45,395 --> 00:42:47,981
+<font color="#ffffff">Du kannst uns beim Spielen zuschauen.</font>
+
+426
+00:42:49,024 --> 00:42:51,443
+<font color="#00ffff">Danke. Ich verzichte.</font>
+
+427
+00:42:51,943 --> 00:42:57,490
+<font color="#ffffff">Was machst du jetzt?
+</font><font color="#00ffff">- Keine Ahnung.</font>
+
+428
+00:42:57,991 --> 00:43:02,871
+<font color="#00ffff">Unterrichtet Mrs. Niedermair
+</font><font color="#00ffff">noch die 6. Klasse?</font>
+
+429
+00:43:10,712 --> 00:43:13,590
+<font color="#ffffff">Komm, Judy! Er hat Angst davor.</font>
+
+430
+00:43:14,591 --> 00:43:17,052
+<font color="#00ffff">Was hast du gesagt?</font>
+
+431
+00:43:17,636 --> 00:43:20,639
+<font color="#ffffff">Du hast Angst davor.</font>
+
+432
+00:43:21,139 --> 00:43:22,474
+<font color="#ffffff">Aber das ist okay.</font>
+
+433
+00:43:24,434 --> 00:43:26,895
+<font color="#ffffff">Ich stelle es im Wohnzimmer auf!</font>
+
+434
+00:43:27,395 --> 00:43:28,855
+<font color="#00ffff">Nein!</font>
+
+435
+00:43:29,356 --> 00:43:32,651
+<font color="#00ffff">Ihr habt keine Ahnung, was euch
+</font><font color="#00ffff">alles erwartet!</font>
+
+436
+00:43:33,151 --> 00:43:35,195
+<font color="#ffffff">Wir werden es schon schaffen!</font>
+
+437
+00:43:35,695 --> 00:43:38,907
+<font color="#ffffff">Wir verzichten auf deine Hilfe!
+</font><font color="#00ffff">- Nein! Ausgeschlossen!</font>
+
+438
+00:43:39,407 --> 00:43:44,454
+<font color="#00ffff">Affen, Moskitos und Löwen
+</font><font color="#00ffff">- das ist erst der Anfang!</font>
+
+439
+00:43:45,705 --> 00:43:52,087
+<font color="#00ffff">Ich habe Dinge gesehen,
+</font><font color="#00ffff">die ihr nur in Alpträumen seht!</font>
+
+440
+00:43:52,587 --> 00:43:55,006
+<font color="#00ffff">Ihr könnt sie euch nicht vorstellen!</font>
+
+441
+00:43:55,507 --> 00:43:58,385
+<font color="#00ffff">Dinge, die ihr nicht einmal sehen
+</font><font color="#00ffff">könnt!</font>
+
+442
+00:43:58,885 --> 00:44:02,347
+<font color="#00ffff">Es gibt Wesen, die jagen dich
+</font><font color="#00ffff">in der Nacht.</font>
+
+443
+00:44:02,847 --> 00:44:05,475
+<font color="#00ffff">Du hörst Schreie und Fresslaute.</font>
+
+444
+00:44:05,976 --> 00:44:11,189
+<font color="#00ffff">Du hoffst, dass du nicht
+</font><font color="#00ffff">die Nachspeise sein wirst.</font>
+
+445
+00:44:11,690 --> 00:44:14,359
+<font color="#00ffff">Du weißt gar nicht, was Angst ist!</font>
+
+446
+00:44:14,859 --> 00:44:18,113
+<font color="#00ffff">Ohne mich überlebst du
+</font><font color="#00ffff">keine fünf Minuten!</font>
+
+447
+00:44:18,613 --> 00:44:21,825
+<font color="#ffffff">Also, .. hilfst du uns?</font>
+
+448
+00:44:25,161 --> 00:44:28,039
+<font color="#00ffff">Ich werde zusehen!</font>
+
+449
+00:44:30,583 --> 00:44:33,420
+<font color="#00ffff">Ich habe keine Angst!</font>
+
+450
+00:44:42,929 --> 00:44:45,598
+<font color="#ffffff">Peter, das war cool!</font>
+
+451
+00:44:46,099 --> 00:44:48,768
+<font color="#ffffff">Reversible Psychologie!</font>
+
+452
+00:44:49,269 --> 00:44:51,104
+<font color="#ffffff">Dad hat es immer damit versucht.</font>
+
+453
+00:44:51,604 --> 00:44:52,897
+<font color="#ffffff">Bereit?</font>
+
+454
+00:44:53,398 --> 00:44:54,190
+<font color="#ffffff">Ja.</font>
+
+455
+00:44:55,275 --> 00:45:00,280
+<font color="#ffffff">Alan! Bereit?
+</font><font color="#00ffff">- Dafür kann man nie bereit sein.</font>
+
+456
+00:45:09,122 --> 00:45:12,250
+<font color="#ffffff">Ich versuche es noch einmal.</font>
+
+457
+00:45:19,632 --> 00:45:22,594
+<font color="#ffffff">Alan! Es funktioniert nicht!</font>
+
+458
+00:45:31,269 --> 00:45:34,272
+<font color="#00ffff">Du bist nicht dran.
+</font><font color="#ffffff">- Doch!</font>
+
+459
+00:45:34,773 --> 00:45:37,984
+<font color="#ffffff">Ich bin jetzt wieder dran.</font>
+
+460
+00:45:39,152 --> 00:45:42,989
+<font color="#00ffff">Nein. Diese beiden Figuren
+</font><font color="#00ffff">gehören euch!</font>
+
+461
+00:45:43,490 --> 00:45:46,534
+<font color="#00ffff">Wem gehören die anderen?</font>
+
+462
+00:45:49,204 --> 00:45:51,456
+<font color="#00ffff">Der Elefant war meine Figur.</font>
+
+463
+00:45:51,956 --> 00:45:57,962
+<font color="#00ffff">Ihr spielt das Spiel,
+</font><font color="#00ffff">das ich 1969 angefangen hatte!</font>
+
+464
+00:45:58,463 --> 00:46:00,840
+<font color="#00ffff">Ich muss weiterspielen!</font>
+
+465
+00:46:03,885 --> 00:46:06,262
+<font color="#00ffff">Ich bin nicht dran.</font>
+
+466
+00:46:07,305 --> 00:46:09,641
+<font color="#ffffff">Wer dann?</font>
+
+467
+00:46:11,643 --> 00:46:14,396
+<font color="#00ffff">Sarah Whittle.</font>
+
+468
+00:46:22,112 --> 00:46:24,864
+<font color="#00ffff">In diesem Haus hat sie gewohnt.</font>
+
+469
+00:46:25,365 --> 00:46:28,410
+<font color="#ffffff">Dieser Platz ist mir unheimlich!</font>
+
+470
+00:46:39,629 --> 00:46:42,715
+<font color="#00ffff">Wir haben oft auf der Veranda
+</font><font color="#00ffff">gespielt!</font>
+
+471
+00:46:43,216 --> 00:46:45,176
+<font color="#ffffff">Madame Serena, Hellseherin.</font>
+
+472
+00:46:45,434 --> 00:46:45,677
+<font color="#ffffff">Madam Serena
+</font><font color="#ffffff">HELLSEHERIN</font>
+<i> </i>
+<i> </i>
+<i> </i>
+
+473
+00:46:45,677 --> 00:46:47,636
+<font color="#ffffff">Madam Serena
+</font><font color="#ffffff">HELLSEHERIN</font>
+<i> </i>
+<font color="#00ffff">Ich wusste,
+</font><font color="#00ffff">sie wohnt nicht mehr hier.</font>
+
+474
+00:46:47,636 --> 00:46:48,180
+<font color="#ffffff">Madam Serena
+</font><font color="#ffffff">HELLSEHERIN</font>
+<i> </i>
+<i> </i>
+<i> </i>
+
+475
+00:46:48,180 --> 00:46:48,203
+<font color="#ffffff">Madam Serena
+</font><font color="#ffffff">HELLSEHERIN</font>
+<i> </i>
+<font color="#00ffff">Sie hat wohl Billy Jessup geheiratet
+</font><font color="#ffffff">- Wir sollten wenigstens fragen!</font>
+
+476
+00:46:48,203 --> 00:46:52,933
+<font color="#00ffff">Sie hat wohl Billy Jessup geheiratet
+</font><font color="#ffffff">- Wir sollten wenigstens fragen!</font>
+
+477
+00:46:53,476 --> 00:46:56,020
+<font color="#ffffff">Sie weiß bestimmt, wo Sarah ist!</font>
+
+478
+00:47:00,316 --> 00:47:02,777
+<font color="#00ffff">Die Veranda war doch viel größer!</font>
+
+479
+00:47:03,278 --> 00:47:07,240
+<font color="#ffffff">(weibliche Stimme:) Hallo?!
+</font><font color="#ffffff">- Können Sie uns helfen?</font>
+
+480
+00:47:07,740 --> 00:47:10,869
+<font color="#ffffff">Haben Sie einen Termin?
+</font><font color="#ffffff">- Nein, wir suchen jemanden.</font>
+
+481
+00:47:11,369 --> 00:47:15,290
+<font color="#ffffff">Madame Serena hat jetzt keine Zeit.
+</font><font color="#00ffff">- Vielleicht können Sie uns helfen!</font>
+
+482
+00:47:17,292 --> 00:47:19,002
+<font color="#ffffff">Worum geht es?</font>
+
+483
+00:47:19,502 --> 00:47:22,464
+<font color="#00ffff">Wir suchen jemanden,
+</font><font color="#00ffff">der früher hier gewohnt hat.</font>
+
+484
+00:47:22,964 --> 00:47:25,300
+<font color="#ffffff">Hier habe immer nur ich gewohnt.</font>
+
+485
+00:47:25,800 --> 00:47:29,095
+<font color="#ffffff">Dann kennen Sie Sarah Whittle?!</font>
+
+486
+00:47:30,638 --> 00:47:33,808
+<font color="#ffffff">Was wollen Sie von Sarah Whittle?</font>
+
+487
+00:47:34,642 --> 00:47:36,603
+<font color="#00ffff">Sarah?!</font>
+
+488
+00:47:37,729 --> 00:47:40,607
+<font color="#ffffff">Ich nenne mich schon lange nicht ...</font>
+
+489
+00:47:41,316 --> 00:47:44,402
+<font color="#00ffff">Sarah Whittle?!</font>
+
+490
+00:47:45,361 --> 00:47:47,489
+<font color="#ffffff">Was wollen Sie?</font>
+
+491
+00:47:48,281 --> 00:47:54,454
+<font color="#00ffff">Vor 26 Jahren spielten Sie
+</font><font color="#00ffff">mit einem Buben ein Spiel.</font>
+
+492
+00:47:55,622 --> 00:47:58,416
+<font color="#00ffff">Ein Spiel mit Trommeln!</font>
+
+493
+00:48:02,003 --> 00:48:04,255
+<font color="#ffffff">Woher wissen Sie das?</font>
+
+494
+00:48:05,215 --> 00:48:08,301
+<font color="#00ffff">Dieser Bub war ich, Sarah!</font>
+
+495
+00:48:11,346 --> 00:48:12,680
+<font color="#ffffff">Alan?!</font>
+
+496
+00:48:19,854 --> 00:48:22,607
+<font color="#ffffff">Du hast sie getötet!</font>
+
+497
+00:48:23,566 --> 00:48:28,488
+<font color="#ffffff">(Anrufbeantworter:) "Hinterlassen
+</font><font color="#ffffff">Sie dem Doktor eine Nachricht!"</font>
+
+498
+00:48:29,197 --> 00:48:32,116
+<font color="#ffffff">Doktor Borstein! Sarah Whittle hier.</font>
+
+499
+00:48:32,617 --> 00:48:35,411
+<font color="#ffffff">Rufen Sie mich bitte rasch zurück!</font>
+
+500
+00:48:35,912 --> 00:48:38,498
+<font color="#ffffff">Ich brauche eine stärkere Dosis.</font>
+
+501
+00:48:38,998 --> 00:48:44,754
+<font color="#ffffff">Es geht um den Vorfall, über
+</font><font color="#ffffff">den wir so lange diskutiert haben.</font>
+
+502
+00:48:45,255 --> 00:48:50,260
+<font color="#ffffff">Ich bin bei dem Buben,
+</font><font color="#ffffff">der verschwunden war.</font>
+
+503
+00:48:50,760 --> 00:48:53,930
+<font color="#ffffff">Rufen Sie mich an!
+</font><font color="#ffffff">Vielen Dank, Doktor.</font>
+
+504
+00:48:54,430 --> 00:48:57,559
+<font color="#ffffff">Er ruft mich später an!
+</font><font color="#00ffff">- Während wir warten ...</font>
+
+505
+00:48:58,059 --> 00:48:58,893
+<font color="#ffffff">Oh Gott!</font>
+
+506
+00:48:59,394 --> 00:49:01,020
+<font color="#00ffff">Sarah! Sarah!</font>
+
+507
+00:49:01,521 --> 00:49:03,064
+<font color="#ffffff">Nein! Nein! Nein!</font>
+
+508
+00:49:03,565 --> 00:49:08,695
+<font color="#ffffff">Ich brauchte 2.000 Stunden Therapie,
+</font><font color="#ffffff">um diese Illusion zu verkraften!</font>
+
+509
+00:49:09,195 --> 00:49:11,447
+<font color="#00ffff">Ja, es war grauenvoll!</font>
+
+510
+00:49:11,948 --> 00:49:15,076
+<font color="#00ffff">Aber es ist wirklich passiert!</font>
+
+511
+00:49:15,577 --> 00:49:16,869
+<font color="#00ffff">Wirklich.</font>
+
+512
+00:49:17,370 --> 00:49:19,872
+<font color="#ffffff">Nein, es ist nicht wirklich passiert!</font>
+
+513
+00:49:20,373 --> 00:49:24,127
+<font color="#ffffff">Dein Vater hat dich ermordet
+</font><font color="#ffffff">und in die Wände eingemauert!</font>
+
+514
+00:49:24,627 --> 00:49:25,712
+<font color="#00ffff">Sarah, bitte!</font>
+
+515
+00:49:26,212 --> 00:49:29,757
+<font color="#00ffff">Mein Vater konnte mich nicht einmal
+</font><font color="#00ffff">anfassen.</font>
+
+516
+00:49:30,258 --> 00:49:32,844
+<font color="#00ffff">Wie sollte er mich in Stücke hacken?</font>
+
+517
+00:49:33,344 --> 00:49:36,764
+<font color="#00ffff">Vor 26 Jahren haben
+</font><font color="#00ffff">wir dieses Spiel begonnen.</font>
+
+518
+00:49:37,932 --> 00:49:43,646
+<font color="#00ffff">Und jetzt werden wir uns hinsetzen
+</font><font color="#00ffff">und es beenden.</font>
+
+519
+00:49:44,147 --> 00:49:47,609
+<font color="#00ffff">Weißt du, wer dran ist? Du!</font>
+
+520
+00:49:52,864 --> 00:49:54,490
+<font color="#ffffff">Nein!</font>
+
+521
+00:49:58,119 --> 00:50:00,622
+<font color="#00ffff">Spiel jetzt das Spiel!</font>
+
+522
+00:50:01,122 --> 00:50:02,624
+<font color="#ffffff">Oh nein!</font>
+
+523
+00:50:03,124 --> 00:50:06,085
+<font color="#00ffff">Gut. Gib die Würfel her und geh!</font>
+
+524
+00:50:06,586 --> 00:50:08,880
+<font color="#00ffff">Du musst nicht spielen.</font>
+
+525
+00:50:09,380 --> 00:50:10,214
+<font color="#ffffff">Danke!</font>
+
+526
+00:50:11,633 --> 00:50:14,427
+<font color="#ffffff">Wie konntest du das tun?</font>
+
+527
+00:50:14,927 --> 00:50:17,096
+<font color="#00ffff">Das Gesetz des Dschungels!</font>
+
+528
+00:50:17,597 --> 00:50:22,143
+<font color="#ffffff">Ich brauchte so viel Energie,
+</font><font color="#ffffff">um dich als Geist zu visualisieren!</font>
+
+529
+00:50:22,644 --> 00:50:24,604
+<font color="#ffffff">Lesen Sie es!</font>
+
+530
+00:50:29,359 --> 00:50:34,614
+<font color="#ffffff">"Sie wachsen viel schneller
+</font><font color="#ffffff">als der Bambus-Strauch."</font>
+
+531
+00:50:35,114 --> 00:50:37,617
+<font color="#ffffff">"Gib Acht,
+</font><font color="#ffffff">sonst jagen sie dich auch."</font>
+
+532
+00:50:38,117 --> 00:50:38,910
+<font color="#00ffff">Großartig!</font>
+
+533
+00:50:39,410 --> 00:50:41,454
+<font color="#ffffff">Sag mir, dass das nicht passiert!</font>
+
+534
+00:50:41,954 --> 00:50:43,831
+<font color="#00ffff">Doch. Es passiert.</font>
+
+535
+00:50:44,332 --> 00:50:47,085
+<font color="#00ffff">Haltet euch von den Wänden fern!</font>
+
+536
+00:50:47,585 --> 00:50:50,797
+<font color="#00ffff">Keine schnellen Bewegungen!</font>
+
+537
+00:50:55,009 --> 00:50:59,806
+<font color="#ffffff">Wow! Die sind wunderschön!
+</font><font color="#00ffff">Ja. Aber berühre die violetten nicht!</font>
+
+538
+00:51:00,306 --> 00:51:02,266
+<font color="#00ffff">Sie schießen mit Giftpfeilen.</font>
+
+539
+00:51:02,767 --> 00:51:05,353
+<font color="#00ffff">Kommt den gelben Schoten nicht
+</font><font color="#00ffff">zu nahe!</font>
+
+540
+00:51:05,853 --> 00:51:08,314
+<font color="#ffffff">Welchen?
+</font><font color="#ffffff">- Aaaah!</font>
+
+541
+00:51:08,815 --> 00:51:10,942
+<font color="#ffffff">(Er schreit.)</font>
+
+542
+00:51:11,442 --> 00:51:12,777
+<font color="#00ffff">Peter!</font>
+
+543
+00:51:13,277 --> 00:51:15,822
+<font color="#00ffff">Ich hab dich! Haltet ihn fest!</font>
+
+544
+00:51:16,322 --> 00:51:18,825
+<font color="#ffffff">Tut das weg von mir!</font>
+
+545
+00:51:19,325 --> 00:51:22,078
+<font color="#ffffff">(Alle schreien.)</font>
+
+546
+00:51:26,374 --> 00:51:28,584
+<font color="#ffffff">Oh mein Gott!</font>
+
+547
+00:51:34,382 --> 00:51:36,634
+<font color="#ffffff">Wir haben dich!</font>
+
+548
+00:51:37,135 --> 00:51:39,137
+<font color="#00ffff">Ich bin gleich wieder da!</font>
+
+549
+00:51:40,304 --> 00:51:43,099
+<font color="#00ffff">Entschuldige, Angus!</font>
+
+550
+00:51:46,853 --> 00:51:49,522
+<font color="#00ffff">Jetzt wird geerntet!</font>
+
+551
+00:51:55,695 --> 00:51:59,282
+<font color="#ffffff">Alles in Ordnung?
+</font><font color="#ffffff">- Peter!</font>
+
+552
+00:51:59,782 --> 00:52:02,785
+<font color="#ffffff">(quietschendes Geräusch)</font>
+
+553
+00:52:06,038 --> 00:52:07,957
+<font color="#ffffff">Oh mein Gott!</font>
+
+554
+00:52:08,666 --> 00:52:11,085
+<font color="#ffffff">Mein Wagen!</font>
+
+555
+00:52:11,794 --> 00:52:14,255
+<font color="#ffffff">(Funk:) Ich rufe Carl!</font>
+
+556
+00:52:14,756 --> 00:52:17,800
+<font color="#ffffff">(Funk:) Carl, bitte kommen!</font>
+
+557
+00:52:18,301 --> 00:52:20,511
+<font color="#ffffff">Hoffentlich läufst du noch!</font>
+
+558
+00:52:21,012 --> 00:52:24,223
+<font color="#ffffff">(Funk:) Carl, bitte kommen!
+</font><font color="#ffffff">- Hier Carl.</font>
+
+559
+00:52:24,724 --> 00:52:27,268
+<font color="#ffffff">(Funk:) Wir haben hier wilde Bestien.</font>
+
+560
+00:52:27,769 --> 00:52:30,855
+<font color="#ffffff">Willy und Stan sollen sich darum
+</font><font color="#ffffff">kümmern!</font>
+
+561
+00:52:31,355 --> 00:52:33,566
+<font color="#ffffff">Ich überprüfe einen Verdächtigen.</font>
+
+562
+00:52:34,066 --> 00:52:37,820
+<font color="#ffffff">Ich hätte Feuerwehrmann werden
+</font><font color="#ffffff">sollen!</font>
+
+563
+00:52:44,494 --> 00:52:46,287
+<font color="#00ffff">Ja. Sarah!</font>
+
+564
+00:52:47,079 --> 00:52:48,664
+<font color="#ffffff">Aaaah!</font>
+
+565
+00:52:49,165 --> 00:52:51,918
+<font color="#ffffff">Nimm die Finger von mir!</font>
+
+566
+00:52:52,418 --> 00:52:54,670
+<font color="#00ffff">Das Spiel ist noch nicht vorbei!</font>
+
+567
+00:52:55,171 --> 00:52:58,007
+<font color="#ffffff">Für mich schon! Lass mich los!</font>
+
+568
+00:52:58,508 --> 00:53:01,177
+<font color="#ffffff">Behandle Menschen nicht so!</font>
+
+569
+00:53:14,232 --> 00:53:16,609
+<font color="#ffffff">Mag jemand Eistee?</font>
+
+570
+00:53:23,115 --> 00:53:26,494
+<font color="#ffffff">Das letzte Spiel hat mein Leben
+</font><font color="#ffffff">ruiniert!</font>
+
+571
+00:53:27,245 --> 00:53:30,540
+<font color="#00ffff">Es hat dein Leben ruiniert?!</font>
+
+572
+00:53:31,040 --> 00:53:35,253
+<font color="#00ffff">"Der Würfel muss 5 oder 8
+</font><font color="#00ffff">ergeben ..."</font>
+
+573
+00:53:35,753 --> 00:53:38,339
+<font color="#ffffff">Ich war noch ein Kind, Alan!</font>
+
+574
+00:53:38,923 --> 00:53:41,425
+<font color="#ffffff">Du hast dich aufgelöst!</font>
+
+575
+00:53:41,926 --> 00:53:47,139
+<font color="#ffffff">Die Fledermäuse jagten mich
+</font><font color="#ffffff">die Straße hinunter.</font>
+
+576
+00:53:47,974 --> 00:53:50,101
+<font color="#ffffff">Ich habe mich so gefürchtet.</font>
+
+577
+00:53:50,601 --> 00:53:55,815
+<font color="#ffffff">Niemand glaubte mir.
+</font><font color="#ffffff">Ich war ganz allein.</font>
+
+578
+00:53:56,315 --> 00:53:59,819
+<font color="#00ffff">Ich war allein. 26 Jahre lang!</font>
+
+579
+00:54:00,653 --> 00:54:03,155
+<font color="#ffffff">Aber ich auch.</font>
+
+580
+00:54:03,656 --> 00:54:06,701
+<font color="#ffffff">Ist schon gut, Sarah!</font>
+
+581
+00:54:07,201 --> 00:54:09,120
+<font color="#ffffff">Wir haben auch Angst.</font>
+
+582
+00:54:09,620 --> 00:54:12,331
+<font color="#ffffff">Alles wird gut werden!</font>
+
+583
+00:54:13,082 --> 00:54:17,962
+<font color="#ffffff">Und wenn ich drin gefangen bleibe?
+</font><font color="#00ffff">- Das wirst du nicht.</font>
+
+584
+00:54:18,462 --> 00:54:20,506
+<font color="#00ffff">Ich spiele bis zum Ende weiter.</font>
+
+585
+00:54:21,007 --> 00:54:25,136
+<font color="#ffffff">Ich auch.
+</font><font color="#ffffff">- Und ich auch.</font>
+
+586
+00:54:32,685 --> 00:54:34,812
+<font color="#00ffff">Komm, Sarah!</font>
+
+587
+00:54:35,313 --> 00:54:36,314
+<font color="#ffffff">Bitte!</font>
+
+588
+00:54:43,821 --> 00:54:46,198
+<font color="#ffffff">Ich wusste,
+</font><font color="#ffffff">es wird ein schlimmer Tag.</font>
+
+589
+00:54:46,699 --> 00:54:48,868
+<font color="#00ffff">Komm schon.</font>
+
+590
+00:54:49,368 --> 00:54:51,746
+<font color="#00ffff">Wir werden es schaffen!</font>
+
+591
+00:54:52,246 --> 00:54:55,249
+<font color="#00ffff">Wir dürfen den Kopf nicht verlieren!</font>
+
+592
+00:54:55,750 --> 00:54:58,628
+<font color="#00ffff">Wir müssen tapfer sein!</font>
+
+593
+00:55:14,143 --> 00:55:18,773
+<font color="#00ffff">"Ein Jäger kommt stürmisch
+</font><font color="#00ffff">wie der Wind."</font>
+
+594
+00:55:19,273 --> 00:55:23,319
+<font color="#00ffff">"Du fühlst dich hilflos
+</font><font color="#00ffff">wie ein Kind."</font>
+
+595
+00:55:23,819 --> 00:55:27,490
+<font color="#ffffff">Was heißt das?
+</font><font color="#00ffff">- Van Pelt!</font>
+
+596
+00:55:32,411 --> 00:55:35,498
+<font color="#ffffff">Armseliger Feigling!</font>
+
+597
+00:55:35,998 --> 00:55:38,793
+<font color="#ffffff">Man muss sich seinen Gegnern stellen!</font>
+
+598
+00:55:46,759 --> 00:55:49,428
+<font color="#ffffff">Nicht gut genug, Sunnyboy!</font>
+
+599
+00:55:49,929 --> 00:55:52,306
+<font color="#ffffff">Ich bin dir auf der Spur!</font>
+
+600
+00:56:09,156 --> 00:56:10,992
+<font color="#ffffff">Hey, Sie!</font>
+
+601
+00:56:11,492 --> 00:56:13,828
+<font color="#ffffff">(Schuss)</font>
+
+602
+00:56:15,454 --> 00:56:18,749
+<font color="#ffffff">Lassen Sie die Waffe fallen!</font>
+
+603
+00:56:29,010 --> 00:56:31,345
+<font color="#ffffff">(Er hat keine Patrone mehr.)</font>
+
+604
+00:56:44,275 --> 00:56:47,319
+<font color="#ffffff">Das darf doch alles nicht wahr sein!</font>
+
+605
+00:56:54,869 --> 00:57:00,041
+<font color="#ffffff">Es wird immer wieder etwas
+</font><font color="#ffffff">neues Schreckliches passieren.</font>
+
+606
+00:57:00,541 --> 00:57:06,130
+<font color="#ffffff">Wer seine Emotionen unterdrückt,
+</font><font color="#ffffff">zieht negative Energien an.</font>
+
+607
+00:57:06,630 --> 00:57:10,009
+<font color="#ffffff">Das mit dem Dschungel war kein
+</font><font color="#ffffff">Zufall! Es gibt keine Zufälle!</font>
+
+608
+00:57:10,509 --> 00:57:12,094
+<font color="#00ffff">Wer ist jetzt dran?</font>
+
+609
+00:57:12,595 --> 00:57:15,097
+<font color="#ffffff">Ich bin dran.
+</font><font color="#00ffff">- Schön.</font>
+
+610
+00:57:15,598 --> 00:57:18,225
+<font color="#ffffff">Warum hast du uns nicht vor diesem
+</font><font color="#ffffff">Jäger gewarnt?</font>
+
+611
+00:57:18,726 --> 00:57:21,020
+<font color="#00ffff">Das wusste ich nicht!</font>
+
+612
+00:57:21,520 --> 00:57:24,899
+<font color="#ffffff">Ist das der Grund, warum du nicht
+</font><font color="#ffffff">spielen wolltest?</font>
+
+613
+00:57:25,399 --> 00:57:28,110
+<font color="#ffffff">Du wolltest auch nicht spielen!</font>
+
+614
+00:57:28,611 --> 00:57:31,280
+<font color="#ffffff">"Wir müssen das Spiel zu Ende
+</font><font color="#ffffff">spielen."</font>
+
+615
+00:57:31,781 --> 00:57:34,158
+<font color="#ffffff">Das hast du doch gesagt!</font>
+
+616
+00:57:34,658 --> 00:57:37,453
+<font color="#ffffff">Was ist zwischen dir und dem Kerl?</font>
+
+617
+00:57:37,953 --> 00:57:40,456
+<font color="#00ffff">Er ist Jäger und will mich töten!</font>
+
+618
+00:57:40,956 --> 00:57:44,585
+<font color="#ffffff">Wieso dich?
+</font><font color="#00ffff">- Ich weiß es nicht!</font>
+
+619
+00:57:45,086 --> 00:57:48,005
+<font color="#00ffff">Ich weiß nicht, was er von mir will!</font>
+
+620
+00:57:48,506 --> 00:57:50,174
+<font color="#ffffff">Du bist dran!</font>
+
+621
+00:57:50,674 --> 00:57:53,302
+<font color="#ffffff">Ihr solltet diskutieren!</font>
+
+622
+00:57:53,803 --> 00:57:58,641
+<font color="#00ffff">Bist du verrückt? Er hat ein Gewehr!
+</font><font color="#ffffff">- Nenn mich nie wieder verrückt!</font>
+
+623
+00:57:59,141 --> 00:58:02,978
+<font color="#ffffff">Alle haben mich für verrückt
+</font><font color="#ffffff">gehalten!</font>
+
+624
+00:58:03,479 --> 00:58:05,231
+<font color="#ffffff">Ich würfle jetzt.</font>
+
+625
+00:58:05,731 --> 00:58:06,941
+<font color="#ffffff">Ja.</font>
+
+626
+00:58:07,441 --> 00:58:10,486
+<font color="#ffffff">Niemand kam zu meinem 14. Geburtstag!</font>
+
+627
+00:58:10,986 --> 00:58:13,614
+<font color="#ffffff">Hallo! Ich bin jetzt dran.</font>
+
+628
+00:58:14,115 --> 00:58:15,533
+<font color="#ffffff">Ich würfle!</font>
+
+629
+00:58:16,033 --> 00:58:19,370
+<font color="#ffffff">(Alan und Sarah streiten.)</font>
+
+630
+00:58:19,870 --> 00:58:22,498
+<font color="#ffffff">Würfle einfach!</font>
+
+631
+00:58:26,794 --> 00:58:31,215
+<font color="#ffffff">"Es ist kein Donner,
+</font><font color="#ffffff">lass dich nicht narren."</font>
+
+632
+00:58:31,715 --> 00:58:34,844
+<font color="#ffffff">"Du darfst hier nicht verharren."</font>
+
+633
+00:58:35,344 --> 00:58:37,513
+<font color="#ffffff">(Dröhnen)</font>
+
+634
+00:58:38,013 --> 00:58:40,432
+<font color="#00ffff">Was ist das? Hör doch!</font>
+
+635
+00:59:03,247 --> 00:59:06,625
+<font color="#00ffff">Raus hier! Das ist ein Ansturm!</font>
+
+636
+00:59:07,126 --> 00:59:09,920
+<font color="#00ffff">Das Spiel!</font>
+
+637
+00:59:16,719 --> 00:59:19,263
+<font color="#00ffff">Nicht umdrehen!</font>
+
+638
+00:59:41,952 --> 00:59:43,579
+<font color="#00ffff">Uuuaaah!</font>
+
+639
+00:59:44,079 --> 00:59:47,208
+<font color="#00ffff">Nicht das Spiel!</font>
+
+640
+00:59:54,798 --> 00:59:58,135
+<font color="#00ffff">Warum hast du dir
+</font><font color="#00ffff">nicht das Spiel geschnappt?</font>
+
+641
+00:59:58,636 --> 01:00:00,137
+<font color="#ffffff">Ignoriere ihn! Er ist Waage.</font>
+
+642
+01:00:00,638 --> 01:00:02,848
+<font color="#ffffff">Wo willst du hin?
+</font><font color="#00ffff">- Zum Wasser!</font>
+
+643
+01:00:03,349 --> 01:00:04,350
+<font color="#ffffff">(Telefon)</font>
+
+644
+01:00:04,850 --> 01:00:07,102
+<font color="#ffffff">"Hier ist Tante Nora. Wo wart ihr?"</font>
+
+645
+01:00:07,603 --> 01:00:10,231
+<font color="#ffffff">Tut mir leid. Falsch verbunden!</font>
+
+646
+01:00:13,859 --> 01:00:16,445
+<font color="#ffffff">Wartet auf mich!</font>
+
+647
+01:00:33,587 --> 01:00:36,757
+<font color="#ffffff">Was kann ich für Sie tun?
+</font><font color="#ffffff">- Zehn Dutzend von diesen!</font>
+
+648
+01:00:37,258 --> 01:00:39,843
+<font color="#ffffff">Die werden seit 1903 nicht mehr
+</font><font color="#ffffff">hergestellt.</font>
+
+649
+01:00:40,344 --> 01:00:41,136
+<font color="#ffffff">Verflixt!</font>
+
+650
+01:00:41,637 --> 01:00:44,098
+<font color="#ffffff">Dann brauche ich eine Ersatz-Waffe!</font>
+
+651
+01:00:44,598 --> 01:00:47,351
+<font color="#ffffff">Es gibt eine Wartezeit!</font>
+
+652
+01:00:47,851 --> 01:00:50,104
+<font color="#ffffff">Füllen Sie diese Papiere aus!</font>
+
+653
+01:00:50,604 --> 01:00:53,399
+<font color="#ffffff">Oder soll ich sie ausfüllen?</font>
+
+654
+01:00:53,899 --> 01:00:55,943
+<font color="#ffffff">Louise!</font>
+
+655
+01:01:00,239 --> 01:01:03,117
+<font color="#ffffff">Die haben Sie nicht von uns!</font>
+
+656
+01:01:07,579 --> 01:01:12,293
+<font color="#ffffff">Sie brauchen sie nur zu privaten
+</font><font color="#ffffff">Zwecken, nicht?</font>
+
+657
+01:01:15,129 --> 01:01:16,797
+<font color="#ffffff">Alan!</font>
+
+658
+01:01:18,090 --> 01:01:20,718
+<font color="#00ffff">Nicht so laut!</font>
+
+659
+01:01:27,766 --> 01:01:29,476
+<font color="#00ffff">Hey! Nein!</font>
+
+660
+01:01:37,526 --> 01:01:38,736
+<font color="#00ffff">Fang!</font>
+
+661
+01:01:42,156 --> 01:01:43,657
+<font color="#00ffff">Nein!</font>
+
+662
+01:01:49,288 --> 01:01:51,373
+<font color="#ffffff">Peter!</font>
+
+663
+01:02:54,895 --> 01:02:57,689
+<font color="#ffffff">Peter! Ist alles in Ordnung?</font>
+
+664
+01:02:58,190 --> 01:03:00,609
+<font color="#ffffff">Das war cool!</font>
+
+665
+01:03:01,110 --> 01:03:03,862
+<font color="#ffffff">Ich war so aufgeregt!</font>
+
+666
+01:03:04,613 --> 01:03:06,657
+<font color="#ffffff">Na?</font>
+
+667
+01:03:07,157 --> 01:03:10,285
+<font color="#00ffff">Hast du gut gemacht! Wir müssen los!</font>
+
+668
+01:03:29,513 --> 01:03:32,224
+<font color="#00ffff">Oh nein! Unauffällig weitergehen.</font>
+
+669
+01:03:36,395 --> 01:03:37,604
+<font color="#ffffff">Hey!</font>
+
+670
+01:03:39,022 --> 01:03:40,691
+<font color="#00ffff">Versteckt das Spiel!</font>
+
+671
+01:03:45,195 --> 01:03:48,532
+<font color="#ffffff">Überall wo Ärger ist, sind auch Sie!</font>
+
+672
+01:03:49,032 --> 01:03:50,159
+<font color="#00ffff">Ich?</font>
+
+673
+01:03:50,659 --> 01:03:53,704
+<font color="#00ffff">Ich weiß nicht, wovon Sie sprechen!
+</font><font color="#ffffff">- Ich nehme Sie mit zum Verhör!</font>
+
+674
+01:03:54,204 --> 01:03:55,622
+<font color="#00ffff">Ich gehe nirgendwo hin!
+</font><font color="#ffffff">- Doch, doch!</font>
+
+675
+01:03:56,123 --> 01:03:56,748
+<font color="#00ffff">Au!</font>
+
+676
+01:04:00,043 --> 01:04:03,046
+<font color="#ffffff">(Sarah:) Sie können ihn nicht
+</font><font color="#ffffff">mitnehmen!</font>
+
+677
+01:04:03,547 --> 01:04:05,799
+<font color="#ffffff">Er ist ihr Verlobter!
+</font><font color="#ffffff">- Er ist doch dein Onkel!</font>
+
+678
+01:04:06,758 --> 01:04:09,845
+<font color="#00ffff">Ist schon gut! Ich bin bald zurück!</font>
+
+679
+01:04:12,764 --> 01:04:15,100
+<font color="#ffffff">Aah! Die Pest!</font>
+
+680
+01:04:15,601 --> 01:04:17,811
+<font color="#ffffff">"Man verlässt niemals seine Freunde!"</font>
+
+681
+01:04:18,312 --> 01:04:20,355
+<font color="#00ffff">Wir beenden die Sache später!</font>
+
+682
+01:04:20,856 --> 01:04:23,400
+<font color="#00ffff">Van Pelt! Van Pelt!</font>
+
+683
+01:04:23,901 --> 01:04:26,528
+<font color="#ffffff">Sie gehen jetzt alle nach Hause!</font>
+
+684
+01:04:31,450 --> 01:04:35,204
+<font color="#ffffff">Wie sollen wir zu Ende spielen?</font>
+
+685
+01:04:35,704 --> 01:04:38,624
+<font color="#ffffff">Wir können es nicht ohne ihn machen.</font>
+
+686
+01:04:39,124 --> 01:04:40,584
+<font color="#ffffff">Judy!</font>
+
+687
+01:04:41,084 --> 01:04:42,544
+<font color="#ffffff">Was ist?</font>
+
+688
+01:04:44,546 --> 01:04:49,968
+<font color="#ffffff">Was ist passiert?
+</font><font color="#ffffff">- Ich wollte alleine zu Ende spielen!</font>
+
+689
+01:04:50,469 --> 01:04:52,596
+<font color="#ffffff">"Eine Spielregel wurde verletzt."</font>
+
+690
+01:04:53,096 --> 01:04:55,390
+<font color="#ffffff">"Du wirst um einen Zug
+</font><font color="#ffffff">zurückversetzt!"</font>
+
+691
+01:04:55,891 --> 01:04:57,434
+<font color="#ffffff">Wolltest du betrügen?</font>
+
+692
+01:04:57,935 --> 01:05:01,146
+<font color="#ffffff">Ich wollte, dass die Würfel 12
+</font><font color="#ffffff">ergeben!</font>
+
+693
+01:05:01,647 --> 01:05:04,024
+<font color="#ffffff">Okay! Das nennt man Betrug!</font>
+
+694
+01:05:04,525 --> 01:05:06,527
+<font color="#ffffff">Peter! Deine Hände!</font>
+
+695
+01:05:07,027 --> 01:05:09,488
+<font color="#ffffff">Sieh dir deine Hände an!</font>
+
+696
+01:05:34,012 --> 01:05:37,349
+<font color="#ffffff">(Funk:) "Lorraine, kommen!"</font>
+
+697
+01:05:37,849 --> 01:05:42,354
+<font color="#ffffff">"Hier ist Willy. Sie haben Larrys
+</font><font color="#ffffff">Laden ausgeräumt."</font>
+
+698
+01:05:42,854 --> 01:05:45,357
+<font color="#ffffff">Warum passiert das? Sie wissen es!</font>
+
+699
+01:05:45,857 --> 01:05:49,152
+<font color="#00ffff">Ja. Aber du glaubst es mir bestimmt
+</font><font color="#00ffff">nicht, Carl!</font>
+
+700
+01:05:49,653 --> 01:05:51,947
+<font color="#ffffff">Wieso wissen Sie, dass ich Carl bin?</font>
+
+701
+01:05:52,447 --> 01:05:56,952
+<font color="#00ffff">Du hast früher bei Parrish Shoes
+</font><font color="#00ffff">gearbeitet.</font>
+
+702
+01:05:57,452 --> 01:06:00,289
+<font color="#00ffff">Sie nannten dich "Sohlenmeister"!</font>
+
+703
+01:06:00,789 --> 01:06:03,375
+<font color="#ffffff">Ja, das stimmt!</font>
+
+704
+01:06:03,875 --> 01:06:05,753
+<font color="#ffffff">Der alte Parrish hat mich gefeuert.</font>
+
+705
+01:06:06,253 --> 01:06:07,129
+<font color="#00ffff">Gefeuert?</font>
+
+706
+01:06:07,629 --> 01:06:11,174
+<font color="#ffffff">Ja. Aber ich hatte eine tolle
+</font><font color="#ffffff">Erfindung!</font>
+
+707
+01:06:11,675 --> 01:06:13,594
+<font color="#00ffff">Deine Schuhe!
+</font><font color="#ffffff">- Genau.</font>
+
+708
+01:06:14,094 --> 01:06:15,929
+<font color="#00ffff">Hör zu, Carl!</font>
+
+709
+01:06:16,430 --> 01:06:23,186
+<font color="#00ffff">Das ist zwar schon 26 Jahre her,
+</font><font color="#00ffff">aber es tut mir sehr leid!</font>
+
+710
+01:06:24,646 --> 01:06:26,064
+<font color="#ffffff">Was denn?</font>
+
+711
+01:06:26,940 --> 01:06:28,483
+<font color="#00ffff">Ich bin's: Alan!</font>
+
+712
+01:06:28,984 --> 01:06:31,570
+<font color="#ffffff">(Bremsen quietschen)</font>
+
+713
+01:06:35,240 --> 01:06:39,661
+<font color="#ffffff">Was ist denn hier los?
+</font><font color="#ffffff">- Vielleicht ein Räumungsverkauf.</font>
+
+714
+01:06:45,165 --> 01:06:47,377
+<font color="#ffffff">Du hast doch auch drei Affen
+</font><font color="#ffffff">auf einem Motorrad gesehen, oder?</font>
+
+715
+01:06:47,878 --> 01:06:48,503
+<font color="#ffffff">Ja.</font>
+
+716
+01:06:49,004 --> 01:06:49,463
+<font color="#ffffff">Kommt!</font>
+
+717
+01:06:49,756 --> 01:06:51,466
+<font color="#ffffff">(Derzeit außer Betrieb)</font>
+
+718
+01:06:51,840 --> 01:06:54,926
+<font color="#ffffff">Vielleicht nehmen sie
+</font><font color="#ffffff">für die Kaution auch einen Scheck!</font>
+
+719
+01:06:55,427 --> 01:06:56,637
+<font color="#ffffff">Danke!</font>
+
+720
+01:06:57,137 --> 01:07:00,182
+<font color="#ffffff">Der Jammerlappen wird mir nicht ...</font>
+
+721
+01:07:02,351 --> 01:07:03,560
+<font color="#ffffff">Peter, nein!</font>
+
+722
+01:07:04,061 --> 01:07:08,482
+<font color="#ffffff">Halt! Bleib stehen!
+</font><font color="#ffffff">Gib mir das Spiel zurück!</font>
+
+723
+01:07:19,117 --> 01:07:22,496
+<font color="#ffffff">(Die Leute schreien.)</font>
+
+724
+01:07:59,366 --> 01:08:02,244
+<font color="#ffffff">Gib mir das!
+</font><font color="#ffffff">- Nein!</font>
+
+725
+01:08:02,744 --> 01:08:03,495
+<font color="#ffffff">Gib her!</font>
+
+726
+01:08:03,995 --> 01:08:07,999
+<font color="#ffffff">Hilfe! Holt mich hier heraus!</font>
+
+727
+01:08:08,959 --> 01:08:10,711
+<font color="#ffffff">Ganz ruhig!</font>
+
+728
+01:08:11,211 --> 01:08:13,630
+<font color="#ffffff">Keine Angst! Wir sind da.</font>
+
+729
+01:08:24,391 --> 01:08:26,435
+<font color="#ffffff">Los! Weiter!</font>
+
+730
+01:08:40,323 --> 01:08:42,075
+<font color="#ffffff">Da ist es!</font>
+
+731
+01:08:42,576 --> 01:08:44,453
+<font color="#ffffff">Wartet hier!</font>
+
+732
+01:08:53,253 --> 01:08:55,255
+<font color="#ffffff">Erwischt, Kindchen!</font>
+
+733
+01:08:55,756 --> 01:08:59,301
+<font color="#ffffff">Wenn Alan von deinem Missgeschick
+</font><font color="#ffffff">erfährt, wird er kommen!</font>
+
+734
+01:08:59,801 --> 01:09:02,345
+<font color="#ffffff">Er weiß gar nicht, dass ich hier bin!</font>
+
+735
+01:09:02,846 --> 01:09:04,723
+<font color="#ffffff">Ich muss jetzt gehen.</font>
+
+736
+01:09:05,223 --> 01:09:08,643
+<font color="#ffffff">Ich schieß dir deinen scheußlichen
+</font><font color="#ffffff">Schädel weg!</font>
+
+737
+01:09:10,353 --> 01:09:12,981
+<font color="#ffffff">Das dürfte wirken!
+</font><font color="#ffffff">- Ja.</font>
+
+738
+01:09:13,607 --> 01:09:15,150
+<font color="#ffffff">Aaah!</font>
+
+739
+01:09:17,986 --> 01:09:19,654
+<font color="#ffffff">Preiskontrolle!</font>
+
+740
+01:09:20,657 --> 01:09:21,741
+<font color="#ffffff">KEIN VERKAUF</font>
+
+741
+01:09:23,533 --> 01:09:28,121
+<font color="#00ffff">Ich kann das alles aufhalten,
+</font><font color="#00ffff">wenn du mich gehen lässt!</font>
+
+742
+01:09:28,622 --> 01:09:31,750
+<font color="#00ffff">Du musst mir helfen, bitte!</font>
+
+743
+01:09:32,250 --> 01:09:35,003
+<font color="#ffffff">Das wird mir bestimmt noch leid tun!</font>
+
+744
+01:09:36,588 --> 01:09:38,507
+<font color="#ffffff">Halt einfach still!</font>
+
+745
+01:09:39,007 --> 01:09:41,092
+<font color="#ffffff">Na gut. Ich lass dich gehen.</font>
+
+746
+01:09:41,593 --> 01:09:44,137
+<font color="#ffffff">Und wie geht's weiter?</font>
+
+747
+01:09:44,638 --> 01:09:45,597
+<font color="#ffffff">Hey!</font>
+
+748
+01:09:46,097 --> 01:09:47,432
+<font color="#00ffff">Du wartest hier!
+</font><font color="#ffffff">- Meine Schlüssel!</font>
+
+749
+01:09:47,474 --> 01:09:51,269
+<font color="#00ffff">Das ist das Beste für dich!
+</font><font color="#ffffff">- Meine Handschellen-Schlüssel!</font>
+
+750
+01:09:51,770 --> 01:09:54,064
+<font color="#00ffff">Entschuldige. Ich muss das tun.
+</font><font color="#ffffff">- Alan!</font>
+
+751
+01:09:54,564 --> 01:09:56,608
+<font color="#00ffff">Du wirst mir später dafür danken!</font>
+
+752
+01:09:57,108 --> 01:09:59,986
+<font color="#ffffff">(Funk:) "Geiselnahme
+</font><font color="#ffffff">im 'Sir Sav-a-lot'"</font>
+
+753
+01:10:00,487 --> 01:10:06,159
+<font color="#ffffff">"Eine Frau und zwei Kinder sind
+</font><font color="#ffffff">in der Gewalt eines Bewaffneten."</font>
+
+754
+01:10:06,660 --> 01:10:10,121
+<font color="#00ffff">Was ist 'Sir Sav-a-lot'?
+</font><font color="#ffffff">- Das ist ein Diskontladen!</font>
+
+755
+01:10:10,622 --> 01:10:12,165
+<font color="#ffffff">Langsam, Alan!</font>
+
+756
+01:10:12,666 --> 01:10:16,294
+<font color="#00ffff">Keine Sorge! Ich bin schon gefahren
+</font><font color="#00ffff">- ein Mal!</font>
+
+757
+01:10:17,379 --> 01:10:20,006
+<font color="#ffffff">(Reifen quietschen)</font>
+
+758
+01:10:41,152 --> 01:10:43,947
+<font color="#00ffff">Wo ist dieser 'Sir Sav-a-lot'?
+</font><font color="#ffffff">- Monroe-Straße!</font>
+
+759
+01:10:44,447 --> 01:10:47,742
+<font color="#00ffff">Ah, die Kirche!
+</font><font color="#ffffff">Nein, da ist jetzt ein Speedy-Burger.</font>
+
+760
+01:10:48,285 --> 01:10:50,829
+<font color="#ffffff">Oder was noch davon übrig ist.</font>
+
+761
+01:10:51,329 --> 01:10:52,080
+<font color="#ffffff">Judy!</font>
+
+762
+01:11:04,175 --> 01:11:06,428
+<font color="#00ffff">Wir bekommen Gesellschaft!</font>
+
+763
+01:11:06,928 --> 01:11:09,973
+<font color="#ffffff">Das ist nur ein Verkehrspolizist!</font>
+
+764
+01:11:14,187 --> 01:11:15,646
+<font color="#ffffff">POLIZEI</font>
+
+765
+01:11:25,865 --> 01:11:27,283
+<font color="#ffffff">Waschmittel</font>
+
+766
+01:11:33,246 --> 01:11:35,373
+<font color="#ffffff">Oooooh!</font>
+
+767
+01:12:01,775 --> 01:12:04,610
+<font color="#ffffff">Hier ist das Spiel!
+</font><font color="#ffffff">- Gib es mir! Kommt!</font>
+
+768
+01:12:07,614 --> 01:12:09,824
+<font color="#ffffff">Na gut.</font>
+
+769
+01:12:30,303 --> 01:12:33,223
+<font color="#ffffff">Schalte die Sirene aus!</font>
+
+770
+01:12:40,897 --> 01:12:43,942
+<font color="#ffffff">Ich hätte dich schon oft erschießen
+</font><font color="#ffffff">können!</font>
+
+771
+01:12:44,442 --> 01:12:48,363
+<font color="#ffffff">Warum haben Sie es nicht getan?
+</font><font color="#ffffff">- Weil Alan gewürfelt hat!</font>
+
+772
+01:12:48,863 --> 01:12:50,782
+<font color="#ffffff">Wir sind da! Bremsen!</font>
+
+773
+01:12:51,282 --> 01:12:53,660
+<font color="#ffffff">Steig auf die Bremse!</font>
+
+774
+01:12:54,160 --> 01:12:56,287
+<font color="#00ffff">Das mache ich ja!</font>
+
+775
+01:12:57,956 --> 01:13:01,001
+<font color="#ffffff">Er müsste jeden Moment kommen!</font>
+
+776
+01:13:02,419 --> 01:13:04,838
+<font color="#ffffff">Mein Wagen!</font>
+
+777
+01:13:20,270 --> 01:13:21,688
+<font color="#00ffff">Sarah!</font>
+
+778
+01:13:22,188 --> 01:13:24,566
+<font color="#00ffff">Geht's dir gut?
+</font><font color="#ffffff">- Ja.</font>
+
+779
+01:13:25,066 --> 01:13:28,278
+<font color="#00ffff">Wo ist Peter?
+</font><font color="#ffffff">- Ich bin hier.</font>
+
+780
+01:13:29,112 --> 01:13:31,072
+<font color="#00ffff">Großartig!</font>
+
+781
+01:13:34,826 --> 01:13:38,999
+<font color="#ffffff">(Kassette:) "Die Umstände entziehen
+</font><font color="#ffffff">sich nie Ihrer Kontrolle!"</font>
+
+782
+01:13:43,334 --> 01:13:49,007
+<font color="#ffffff">(Radio:) "In Brantford wurden bis
+</font><font color="#ffffff">jetzt 98 Personen ...</font>
+
+783
+01:13:49,507 --> 01:13:52,302
+<font color="#ffffff">.. in das Krankenhaus
+</font><font color="#ffffff">eingeliefert."</font>
+
+784
+01:13:52,802 --> 01:13:56,222
+<font color="#ffffff">"Sie hatten Fieber,
+</font><font color="#ffffff">Ausschläge und Krämpfe."</font>
+
+785
+01:13:56,723 --> 01:13:58,933
+<font color="#ffffff">(Dröhnen)</font>
+
+786
+01:13:59,434 --> 01:14:01,186
+<font color="#ffffff">Was?</font>
+
+787
+01:14:35,053 --> 01:14:38,640
+<font color="#ffffff">(Der Affe kreischt.)</font>
+
+788
+01:14:48,274 --> 01:14:49,526
+<font color="#ffffff">Na endlich!</font>
+
+789
+01:14:51,736 --> 01:14:54,656
+<font color="#ffffff">Alan, rede bitte mit ihm!</font>
+
+790
+01:14:55,156 --> 01:14:57,534
+<font color="#00ffff">Wir haben jetzt keine Zeit dafür!</font>
+
+791
+01:14:58,034 --> 01:15:00,411
+<font color="#ffffff">Er ist ein Kind!
+</font><font color="#ffffff">Er wollte uns helfen.</font>
+
+792
+01:15:00,912 --> 01:15:02,539
+<font color="#00ffff">Also gut.</font>
+
+793
+01:15:03,039 --> 01:15:05,333
+<font color="#ffffff">Judy, komm zu mir!</font>
+
+794
+01:15:05,834 --> 01:15:08,419
+<font color="#00ffff">Ich habe euch davor gewarnt, Peter!</font>
+
+795
+01:15:08,920 --> 01:15:11,881
+<font color="#00ffff">Ihr wolltet trotzdem spielen!</font>
+
+796
+01:15:12,382 --> 01:15:14,342
+<font color="#ffffff">(Er weint.)</font>
+
+797
+01:15:14,843 --> 01:15:17,011
+<font color="#00ffff">Was ist? Weinst du?</font>
+
+798
+01:15:17,512 --> 01:15:20,223
+<font color="#00ffff">Ein Bub weint nicht. Kopf hoch!</font>
+
+799
+01:15:20,723 --> 01:15:23,184
+<font color="#00ffff">Weinen hilft nicht!</font>
+
+800
+01:15:24,477 --> 01:15:27,605
+<font color="#00ffff">Löse das Problem wie ein Mann!</font>
+
+801
+01:15:28,106 --> 01:15:30,400
+<font color="#ffffff">(Er weint.)</font>
+
+802
+01:15:33,736 --> 01:15:36,239
+<font color="#00ffff">Hey!</font>
+
+803
+01:15:37,448 --> 01:15:39,993
+<font color="#00ffff">Es tut mir leid.</font>
+
+804
+01:15:40,493 --> 01:15:43,329
+<font color="#00ffff">Ich bin wie mein Vater geworden!</font>
+
+805
+01:15:43,830 --> 01:15:46,207
+<font color="#00ffff">Ist schon gut! Es tut mir leid!</font>
+
+806
+01:15:46,708 --> 01:15:47,917
+<font color="#00ffff">Ist schon gut.</font>
+
+807
+01:15:48,418 --> 01:15:51,838
+<font color="#00ffff">Du hast mir gesagt, es ist
+</font><font color="#00ffff">nicht schlimm, Angst zu haben.</font>
+
+808
+01:15:52,338 --> 01:15:54,257
+<font color="#ffffff">Das ist es nicht.</font>
+
+809
+01:15:54,757 --> 01:15:56,342
+<font color="#00ffff">Was dann?</font>
+
+810
+01:15:57,635 --> 01:16:00,930
+<font color="#ffffff">(Man versteht nicht, was er sagt.)</font>
+
+811
+01:16:03,725 --> 01:16:05,310
+<font color="#00ffff">Oh!</font>
+
+812
+01:16:06,519 --> 01:16:08,479
+<font color="#00ffff">Okay.</font>
+
+813
+01:16:09,564 --> 01:16:10,899
+<font color="#00ffff">Bereit?</font>
+
+814
+01:16:11,399 --> 01:16:14,652
+<font color="#00ffff">Mach dir keine Sorgen!</font>
+
+815
+01:16:15,153 --> 01:16:17,947
+<font color="#00ffff">Du wirst bald wieder du selbst!</font>
+
+816
+01:16:18,448 --> 01:16:21,367
+<font color="#00ffff">Wir werden jetzt zu Ende spielen!</font>
+
+817
+01:16:25,914 --> 01:16:26,789
+<font color="#00ffff">Was?</font>
+
+818
+01:16:39,510 --> 01:16:42,013
+<font color="#00ffff">Ich fühle mich wie zu Hause!</font>
+
+819
+01:16:42,431 --> 01:16:43,474
+<font color="#ffffff">BREMSFLÜSSIGKEIT</font>
+
+820
+01:16:51,732 --> 01:16:53,025
+<font color="#ffffff">(Türen schließen)</font>
+
+821
+01:17:14,504 --> 01:17:16,881
+<font color="#ffffff">Lorraine, hier ist Carl!</font>
+
+822
+01:17:17,382 --> 01:17:20,134
+<font color="#ffffff">Ich brauche Verstärkung!</font>
+
+823
+01:17:20,635 --> 01:17:22,929
+<font color="#ffffff">(Die Affen kreischen.)</font>
+
+824
+01:17:23,429 --> 01:17:24,764
+<font color="#ffffff">Lorraine?</font>
+
+825
+01:17:29,226 --> 01:17:31,028
+<font color="#ffffff">Warten Sie! Warten Sie!</font>
+
+826
+01:17:31,229 --> 01:17:32,355
+<font color="#ffffff">Hey, was ...</font>
+
+827
+01:17:32,855 --> 01:17:33,481
+<font color="#ffffff">Halt!</font>
+
+828
+01:17:34,482 --> 01:17:36,008
+<font color="#ffffff">Warten Sie! Halt!</font>
+
+829
+01:17:38,903 --> 01:17:40,863
+<font color="#ffffff">Haben Sie ein Problem?</font>
+
+830
+01:17:41,364 --> 01:17:43,866
+<font color="#ffffff">Könnten Sie mich nach Hause bringen?
+</font><font color="#ffffff">- Wo wohnen Sie?</font>
+
+831
+01:17:44,367 --> 01:17:48,871
+<font color="#ffffff">Im alten Parrish-Haus!
+</font><font color="#ffffff">- Haben Sie zwei Kinder?</font>
+
+832
+01:17:49,372 --> 01:17:53,001
+<font color="#ffffff">Was ist denn passiert?
+</font><font color="#ffffff">- Steigen Sie ein!</font>
+
+833
+01:17:53,501 --> 01:17:54,335
+<font color="#ffffff">Aaaaah!</font>
+
+834
+01:17:54,836 --> 01:17:58,298
+<font color="#ffffff">Nicht schon wieder!</font>
+
+835
+01:18:23,448 --> 01:18:24,991
+<font color="#ffffff">Friss ihn!</font>
+
+836
+01:18:25,491 --> 01:18:26,993
+<font color="#ffffff">Wir gehen zum Haus!</font>
+
+837
+01:18:32,081 --> 01:18:35,043
+<font color="#ffffff">Sollten wir nicht woanders spielen?</font>
+
+838
+01:18:35,543 --> 01:18:38,171
+<font color="#00ffff">Nein, so bin ich aufgewachsen.</font>
+
+839
+01:18:38,671 --> 01:18:41,382
+<font color="#00ffff">Draußen habe ich Angst.
+</font><font color="#ffffff">(Sarah:) Okay, ich bin dran.</font>
+
+840
+01:18:41,883 --> 01:18:44,427
+<font color="#ffffff">Sarah! Mit einer 12 gewinnst du!</font>
+
+841
+01:18:46,846 --> 01:18:48,348
+<font color="#ffffff">Fertig?</font>
+
+842
+01:18:48,848 --> 01:18:50,058
+<font color="#ffffff">Los!</font>
+
+843
+01:18:53,519 --> 01:18:54,479
+<font color="#00ffff">Ist okay.</font>
+
+844
+01:18:55,396 --> 01:19:01,319
+<font color="#ffffff">"Der Mond lässt dich nicht ruhen.
+</font><font color="#ffffff">Er treibt zu dir den Monsun."</font>
+
+845
+01:19:01,819 --> 01:19:03,112
+<font color="#ffffff">Monsun?</font>
+
+846
+01:19:03,613 --> 01:19:06,115
+<font color="#ffffff">Wir sind ja im Haus!</font>
+
+847
+01:19:06,616 --> 01:19:08,659
+<font color="#00ffff">Ja.</font>
+
+848
+01:19:09,786 --> 01:19:12,705
+<font color="#ffffff">(Donner)</font>
+
+849
+01:19:30,723 --> 01:19:33,643
+<font color="#ffffff">Ein bisschen Regen schadet nicht.</font>
+
+850
+01:19:34,143 --> 01:19:36,521
+<font color="#00ffff">Aber viel kann dich töten!</font>
+
+851
+01:19:37,021 --> 01:19:38,398
+<font color="#00ffff">Kommt!</font>
+
+852
+01:19:39,649 --> 01:19:41,651
+<font color="#00ffff">Hier lang!</font>
+
+853
+01:19:45,863 --> 01:19:50,034
+<font color="#ffffff">Was machen wir jetzt?
+</font><font color="#00ffff">- Wir gehen höher hinauf!</font>
+
+854
+01:19:50,535 --> 01:19:53,454
+<font color="#00ffff">Bleibt zusammen! Peter, geh!</font>
+
+855
+01:19:57,875 --> 01:20:00,586
+<font color="#ffffff">(Sie schreien.)</font>
+
+856
+01:20:07,760 --> 01:20:10,096
+<font color="#00ffff">Alles klar, Peter?</font>
+
+857
+01:20:11,097 --> 01:20:14,058
+<font color="#00ffff">Judy!
+</font><font color="#ffffff">- Alan!</font>
+
+858
+01:20:14,559 --> 01:20:18,563
+<font color="#ffffff">Was ist das?
+</font><font color="#00ffff">- Aaaah! Schwimmt!</font>
+
+859
+01:20:23,443 --> 01:20:27,613
+<font color="#ffffff">(Sarah:) Alan!
+</font><font color="#00ffff">- Judy, schwimm!</font>
+
+860
+01:20:29,991 --> 01:20:32,160
+<font color="#00ffff">Immer weiter!</font>
+
+861
+01:20:32,660 --> 01:20:37,457
+<font color="#00ffff">Schnell auf den Tisch!
+</font><font color="#00ffff">Raus aus dem Wasser!</font>
+
+862
+01:20:41,586 --> 01:20:44,172
+<font color="#00ffff">Auf den Kronleuchter!</font>
+
+863
+01:20:44,672 --> 01:20:46,549
+<font color="#00ffff">Sarah!</font>
+
+864
+01:20:50,511 --> 01:20:52,638
+<font color="#00ffff">Komm, Sarah!</font>
+
+865
+01:20:58,227 --> 01:20:59,270
+<font color="#ffffff">Aaaaah!</font>
+
+866
+01:20:59,770 --> 01:21:00,563
+<font color="#ffffff">Peter!</font>
+
+867
+01:21:06,903 --> 01:21:08,821
+<font color="#00ffff">Halt durch, Sarah!</font>
+
+868
+01:21:12,241 --> 01:21:14,619
+<font color="#ffffff">Alles in Ordnung, Peter?</font>
+
+869
+01:21:28,612 --> 01:21:30,468
+<font color="#ffffff">Wo ist er?</font>
+
+870
+01:21:30,968 --> 01:21:32,220
+<font color="#ffffff">Alan!</font>
+
+871
+01:21:32,720 --> 01:21:33,346
+<font color="#ffffff">Alan!</font>
+
+872
+01:21:37,683 --> 01:21:40,061
+<font color="#ffffff">(Schreie)</font>
+
+873
+01:21:40,561 --> 01:21:42,146
+<font color="#ffffff">Judy! Peter!</font>
+
+874
+01:21:43,147 --> 01:21:45,650
+<font color="#ffffff">Treten Sie zurück, Madame!</font>
+
+875
+01:21:46,150 --> 01:21:48,194
+<font color="#ffffff">Kein Grund zur Panik!</font>
+
+876
+01:21:48,694 --> 01:21:50,655
+<font color="#ffffff">Peter! Judy!</font>
+
+877
+01:21:51,155 --> 01:21:53,824
+<font color="#ffffff">Das wollte ich immer schon tun!</font>
+
+878
+01:21:54,325 --> 01:21:57,411
+<font color="#ffffff">Gehen Sie bitte zurück!</font>
+
+879
+01:22:15,388 --> 01:22:18,432
+<font color="#ffffff">Gib mir die Hand!</font>
+
+880
+01:22:18,933 --> 01:22:20,101
+<font color="#ffffff">Alan!</font>
+
+881
+01:22:21,060 --> 01:22:23,896
+<font color="#00ffff">Ich hab sie!</font>
+
+882
+01:22:24,397 --> 01:22:25,398
+<font color="#00ffff">Nein!</font>
+
+883
+01:22:25,898 --> 01:22:27,066
+<font color="#ffffff">Alan!</font>
+
+884
+01:22:45,459 --> 01:22:48,629
+<font color="#00ffff">Nimm das Spiel!</font>
+
+885
+01:22:54,594 --> 01:22:56,679
+<font color="#00ffff">Alles in Ordnung?
+</font><font color="#ffffff">- Ja.</font>
+
+886
+01:23:02,059 --> 01:23:07,481
+<font color="#ffffff">Du hast mit einem Alligator
+</font><font color="#ffffff">gekämpft, um mich zu retten!</font>
+
+887
+01:23:07,982 --> 01:23:10,860
+<font color="#00ffff">Es war ein Krokodil.</font>
+
+888
+01:23:11,360 --> 01:23:16,449
+<font color="#00ffff">Alligatoren haben keine Hautlappen
+</font><font color="#00ffff">an den Hinterbeinen. Komm!</font>
+
+889
+01:23:19,076 --> 01:23:21,871
+<font color="#ffffff">Wie dumm von mir!</font>
+
+890
+01:23:31,297 --> 01:23:32,548
+<font color="#00ffff">Okay!</font>
+
+891
+01:23:37,428 --> 01:23:39,305
+<font color="#ffffff">(Tür fällt laut ins Schloss)</font>
+
+892
+01:23:42,767 --> 01:23:43,851
+<font color="#00ffff">Kommt!</font>
+
+893
+01:23:46,604 --> 01:23:49,190
+<font color="#00ffff">Ich bin dran!</font>
+
+894
+01:23:51,275 --> 01:23:54,236
+<font color="#00ffff">Jetzt weiß ich es!</font>
+
+895
+01:23:54,737 --> 01:24:00,409
+<font color="#00ffff">Oberst von Gato in der Bibliothek
+</font><font color="#00ffff">mit der Rohrzange! Cluedo!</font>
+
+896
+01:24:12,421 --> 01:24:18,135
+<font color="#00ffff">"Du verlierst deinen festen Stand.
+</font><font color="#00ffff">Der Boden fließt schneller als Sand"</font>
+
+897
+01:24:18,636 --> 01:24:20,054
+<font color="#00ffff">Aaaaah!</font>
+
+898
+01:24:21,555 --> 01:24:22,390
+<font color="#ffffff">Alan!</font>
+
+899
+01:24:23,516 --> 01:24:25,643
+<font color="#00ffff">Hilf mir!</font>
+
+900
+01:24:26,143 --> 01:24:28,521
+<font color="#ffffff">Beweg dich nicht! Bleib ganz ruhig!</font>
+
+901
+01:24:29,021 --> 01:24:31,774
+<font color="#00ffff">Ich bin ruhig.
+</font><font color="#ffffff">- Alan! Halt dich an!</font>
+
+902
+01:24:32,274 --> 01:24:34,777
+<font color="#00ffff">Zieh mich raus! Los, zieh!</font>
+
+903
+01:24:38,906 --> 01:24:40,741
+<font color="#ffffff">Nicht bewegen!</font>
+
+904
+01:24:41,242 --> 01:24:43,202
+<font color="#00ffff">Mach doch was!</font>
+
+905
+01:24:44,412 --> 01:24:45,329
+<font color="#ffffff">Gut!</font>
+
+906
+01:24:46,205 --> 01:24:49,583
+<font color="#ffffff">Wir holen dich raus!</font>
+
+907
+01:24:52,336 --> 01:24:55,673
+<font color="#00ffff">Die Sachen brechen alle auseinander!</font>
+
+908
+01:24:56,173 --> 01:24:58,259
+<font color="#ffffff">"Es gibt eine Lektion ..."</font>
+
+909
+01:24:58,760 --> 01:25:00,010
+<font color="#ffffff">Hier! Hier!</font>
+
+910
+01:25:00,511 --> 01:25:05,975
+<font color="#ffffff">"Es gibt eine Lektion,
+</font><font color="#ffffff">die sollst du verstehen."</font>
+
+911
+01:25:06,475 --> 01:25:07,435
+<font color="#ffffff">Ich hab dich!</font>
+
+912
+01:25:08,728 --> 01:25:13,274
+<font color="#ffffff">"Du musst manchmal einen Zug
+</font><font color="#ffffff">rückwärts gehen."</font>
+
+913
+01:25:14,191 --> 01:25:17,862
+<font color="#00ffff">Oh!
+</font><font color="#ffffff">- Hab ich dir weh getan?</font>
+
+914
+01:25:18,362 --> 01:25:18,988
+<font color="#00ffff">Nein!</font>
+
+915
+01:25:19,488 --> 01:25:22,533
+<font color="#00ffff">Danke, Judy! Du warst sehr schnell!</font>
+
+916
+01:25:23,659 --> 01:25:27,747
+<font color="#00ffff">Sarah und ich wollen aus dem Boden
+</font><font color="#00ffff">heraus!</font>
+
+917
+01:25:28,247 --> 01:25:30,583
+<font color="#00ffff">Peter, du bist dran!</font>
+
+918
+01:25:31,333 --> 01:25:32,460
+<font color="#ffffff">Okay!</font>
+
+919
+01:25:37,631 --> 01:25:40,384
+<font color="#ffffff">Ich dachte, ich verliere dich.</font>
+
+920
+01:25:40,885 --> 01:25:43,637
+<font color="#00ffff">Danke, dass du geblieben bist.</font>
+
+921
+01:25:47,641 --> 01:25:51,061
+<font color="#ffffff">"Fehlt dir eine helfende Hand, ..."</font>
+
+922
+01:25:51,562 --> 01:25:54,774
+<font color="#ffffff">".. gib Acht: Wir haben acht davon
+</font><font color="#ffffff">mitgebracht."</font>
+
+923
+01:25:56,609 --> 01:25:59,320
+<font color="#ffffff">(Er schreit.)</font>
+
+924
+01:26:03,199 --> 01:26:07,036
+<font color="#00ffff">Was ist es?
+</font><font color="#ffffff">- Nichts!</font>
+
+925
+01:26:10,122 --> 01:26:11,749
+<font color="#00ffff">Peter!</font>
+
+926
+01:26:12,249 --> 01:26:14,835
+<font color="#00ffff">Hol die Axt aus dem Gartenhaus!</font>
+
+927
+01:26:15,336 --> 01:26:18,130
+<font color="#00ffff">Lauf! Lauf! Lauf!</font>
+
+928
+01:26:26,222 --> 01:26:29,266
+<font color="#ffffff">Oh, mein Gott!
+</font><font color="#ffffff">- Sarah!</font>
+
+929
+01:26:34,688 --> 01:26:36,023
+<font color="#ffffff">Oh!</font>
+
+930
+01:26:36,524 --> 01:26:38,317
+<font color="#ffffff">Oh!</font>
+
+931
+01:26:59,755 --> 01:27:01,173
+<font color="#ffffff">Judy?</font>
+
+932
+01:27:01,674 --> 01:27:03,175
+<font color="#ffffff">Peter?</font>
+
+933
+01:27:03,676 --> 01:27:04,426
+<font color="#ffffff">Oh!</font>
+
+934
+01:27:04,927 --> 01:27:06,512
+<font color="#ffffff">Nein!</font>
+
+935
+01:27:07,012 --> 01:27:09,348
+<font color="#ffffff">Stopp, da ist ...</font>
+
+936
+01:27:15,521 --> 01:27:16,438
+<font color="#ffffff">Nein!</font>
+
+937
+01:27:23,362 --> 01:27:25,614
+<font color="#ffffff">Oh, ah!</font>
+
+938
+01:27:26,115 --> 01:27:28,909
+<font color="#ffffff">Tante Nora! Ich bin's: Peter!</font>
+
+939
+01:27:29,410 --> 01:27:30,536
+<font color="#ffffff">Aaaaah!</font>
+
+940
+01:27:33,706 --> 01:27:37,126
+<font color="#ffffff">Irgendwann erkläre ich dir alles!</font>
+
+941
+01:27:37,877 --> 01:27:40,629
+<font color="#00ffff">Sarah, du bist dran!</font>
+
+942
+01:27:41,130 --> 01:27:44,466
+<font color="#00ffff">Mit einer 7 hast du gewonnen!
+</font><font color="#ffffff">- Ich kann doch nicht würfeln!</font>
+
+943
+01:27:44,967 --> 01:27:48,637
+<font color="#00ffff">Nimm die Würfel in den Mund!
+</font><font color="#ffffff">(Sarah:) Judy, das Spiel! Schnell!</font>
+
+944
+01:27:49,430 --> 01:27:51,265
+<font color="#ffffff">Aaah!</font>
+
+945
+01:27:52,308 --> 01:27:53,601
+<font color="#ffffff">Judy!</font>
+
+946
+01:28:02,735 --> 01:28:07,072
+<font color="#ffffff">Tut es sehr weh?
+</font><font color="#ffffff">- Ein bisschen. Hilf den beiden!</font>
+
+947
+01:28:11,076 --> 01:28:13,537
+<font color="#ffffff">Bring das Spiel her!</font>
+
+948
+01:28:14,038 --> 01:28:16,081
+<font color="#ffffff">Die Würfel!</font>
+
+949
+01:28:25,174 --> 01:28:31,597
+<font color="#ffffff">"Du darfst nicht wanken. Gleich
+</font><font color="#ffffff">beginnt der Boden zu schwanken."</font>
+
+950
+01:28:32,097 --> 01:28:32,640
+<font color="#ffffff">Judy!</font>
+
+951
+01:28:33,140 --> 01:28:33,807
+<font color="#ffffff">Aaaah!</font>
+
+952
+01:28:35,976 --> 01:28:36,852
+<font color="#00ffff">Was?</font>
+
+953
+01:28:37,353 --> 01:28:38,729
+<font color="#ffffff">Sie kommt zu uns!</font>
+
+954
+01:28:42,441 --> 01:28:44,818
+<font color="#ffffff">Ich hätte gerne Mum und Dad hier!</font>
+
+955
+01:28:45,736 --> 01:28:47,071
+<font color="#ffffff">Ja, ich auch.</font>
+
+956
+01:28:48,864 --> 01:28:49,990
+<font color="#00ffff">Ooooh!</font>
+
+957
+01:28:58,207 --> 01:29:01,210
+<font color="#00ffff">Wir müssen das Spiel
+</font><font color="#00ffff">zu Ende spielen.</font>
+
+958
+01:29:01,710 --> 01:29:03,045
+<font color="#ffffff">Ein Erdbeben!</font>
+
+959
+01:29:03,545 --> 01:29:04,755
+<font color="#ffffff">Oh mein Gott!</font>
+
+960
+01:29:17,893 --> 01:29:20,354
+<font color="#00ffff">Rettet das Spiel! Das Spiel!</font>
+
+961
+01:29:30,906 --> 01:29:32,074
+<font color="#ffffff">Alan!</font>
+
+962
+01:29:50,050 --> 01:29:52,011
+<font color="#ffffff">Keine Bewegung!</font>
+
+963
+01:29:56,015 --> 01:29:58,308
+<font color="#ffffff">Steh auf!</font>
+
+964
+01:30:02,312 --> 01:30:04,982
+<font color="#ffffff">Was hast du in der Hand?</font>
+
+965
+01:30:07,401 --> 01:30:10,362
+<font color="#ffffff">Lass es fallen!</font>
+
+966
+01:30:18,078 --> 01:30:20,748
+<font color="#ffffff">Endstation, Sunnyboy!</font>
+
+967
+01:30:21,248 --> 01:30:23,709
+<font color="#ffffff">Das Spiel ist vorbei!</font>
+
+968
+01:30:24,209 --> 01:30:27,588
+<font color="#ffffff">Lauf davon!
+</font><font color="#00ffff">- Nein.</font>
+
+969
+01:30:28,088 --> 01:30:30,549
+<font color="#ffffff">Hast du keine Furcht?</font>
+
+970
+01:30:31,050 --> 01:30:33,343
+<font color="#00ffff">Ich bin starr vor Angst.</font>
+
+971
+01:30:33,844 --> 01:30:39,767
+<font color="#00ffff">Mein Vater sagte: "Stell dich der
+</font><font color="#00ffff">Gefahr, auch wenn du Angst hast!"</font>
+
+972
+01:30:40,267 --> 01:30:42,895
+<font color="#ffffff">Hahaha!</font>
+
+973
+01:30:43,395 --> 01:30:45,731
+<font color="#ffffff">Guter Junge!</font>
+
+974
+01:30:46,231 --> 01:30:49,026
+<font color="#ffffff">Jetzt wird aus dir endlich ein Mann!</font>
+
+975
+01:30:49,526 --> 01:30:52,237
+<font color="#ffffff">Noch ein letztes Wort?</font>
+
+976
+01:31:00,662 --> 01:31:02,498
+<font color="#00ffff">Jumanji!</font>
+
+977
+01:31:03,290 --> 01:31:04,666
+<font color="#ffffff">Was?</font>
+
+978
+01:31:05,167 --> 01:31:07,044
+<font color="#00ffff">Jumanji!</font>
+
+979
+01:31:09,421 --> 01:31:11,215
+<font color="#ffffff">Nein, Alan! Aaah!</font>
+
+980
+01:32:39,511 --> 01:32:42,639
+<font color="#ffffff">Ich habe meine Notizen vergessen!</font>
+
+981
+01:32:46,018 --> 01:32:48,979
+<font color="#00ffff">Ich freue mich,
+</font><font color="#00ffff">dass du wieder da bist!</font>
+
+982
+01:32:49,479 --> 01:32:52,274
+<font color="#ffffff">Ich war doch erst fünf Minuten weg!</font>
+
+983
+01:32:52,774 --> 01:32:56,195
+<font color="#00ffff">Wirklich?!
+</font><font color="#00ffff">Für mich war es eine Ewigkeit.</font>
+
+984
+01:32:57,154 --> 01:33:01,325
+<font color="#ffffff">Du hast gesagt, dass du nie wieder
+</font><font color="#ffffff">mit mir redest.</font>
+
+985
+01:33:03,702 --> 01:33:06,580
+<font color="#00ffff">Habe ich das wirklich gesagt?</font>
+
+986
+01:33:07,080 --> 01:33:09,249
+<font color="#00ffff">Es tut mir leid.</font>
+
+987
+01:33:12,586 --> 01:33:15,631
+<font color="#ffffff">Alan, ich war wütend auf dich.</font>
+
+988
+01:33:16,882 --> 01:33:19,259
+<font color="#ffffff">Das tut mir auch leid.</font>
+
+989
+01:33:19,760 --> 01:33:21,220
+<font color="#ffffff">Entschuldige!</font>
+
+990
+01:33:22,221 --> 01:33:28,727
+<font color="#ffffff">Du musst nicht nach Cliffside gehen,
+</font><font color="#ffffff">wenn du nicht willst!</font>
+
+991
+01:33:29,228 --> 01:33:31,897
+<font color="#ffffff">Sprechen wir morgen darüber!</font>
+
+992
+01:33:32,397 --> 01:33:35,025
+<font color="#ffffff">Von Mann zu Mann!</font>
+
+993
+01:33:36,026 --> 01:33:38,946
+<font color="#00ffff">Besser: von Vater zu Sohn!</font>
+
+994
+01:33:39,446 --> 01:33:40,739
+<font color="#ffffff">Richtig.</font>
+
+995
+01:33:42,032 --> 01:33:45,285
+<font color="#ffffff">Ich muss gehen! Ich bin Ehrengast!</font>
+
+996
+01:33:48,353 --> 01:33:49,381
+<font color="#00ffff">Dad?</font>
+
+997
+01:33:52,376 --> 01:33:58,298
+<font color="#00ffff">Damals 19.., ich meine,
+</font><font color="#00ffff">heute in der Fabrik, ...</font>
+
+998
+01:33:58,799 --> 01:34:01,343
+<font color="#00ffff">.. Carl Bentley war nicht schuld!</font>
+
+999
+01:34:01,843 --> 01:34:04,596
+<font color="#00ffff">Ich habe den Schuh auf das Band
+</font><font color="#00ffff">gestellt.</font>
+
+1000
+01:34:05,555 --> 01:34:08,392
+<font color="#ffffff">Ich bin froh, dass du es mir sagst.</font>
+
+1001
+01:34:09,685 --> 01:34:10,560
+<font color="#ffffff">Danke.</font>
+
+1002
+01:34:11,061 --> 01:34:12,187
+<font color="#00ffff">Wiedersehen!</font>
+
+1003
+01:34:13,897 --> 01:34:15,649
+<font color="#ffffff">Bis morgen!</font>
+
+1004
+01:34:24,283 --> 01:34:27,160
+<font color="#00ffff">Wir müssen Judy und Peter suchen!</font>
+
+1005
+01:34:27,661 --> 01:34:28,954
+<font color="#ffffff">Alan!</font>
+
+1006
+01:34:29,454 --> 01:34:31,623
+<font color="#ffffff">Die sind nicht hier.</font>
+
+1007
+01:34:32,165 --> 01:34:35,127
+<font color="#ffffff">Es ist 1969.</font>
+
+1008
+01:34:35,627 --> 01:34:38,547
+<font color="#ffffff">Die beiden gibt es noch nicht!</font>
+
+1009
+01:35:00,485 --> 01:35:03,572
+<font color="#ffffff">(Trommel-Geräusch)</font>
+
+1010
+01:35:07,159 --> 01:35:10,287
+<font color="#ffffff">Ich vergesse schon,
+</font><font color="#ffffff">wie ich als Erwachsene war!</font>
+
+1011
+01:35:10,787 --> 01:35:12,706
+<font color="#00ffff">Das macht nichts, Sarah!</font>
+
+1012
+01:35:13,206 --> 01:35:17,002
+<font color="#00ffff">Wir beide dürfen uns nie vergessen!
+</font><font color="#ffffff">- Oder Judy und Peter.</font>
+
+1013
+01:35:17,502 --> 01:35:20,005
+<font color="#ffffff">Ich möchte noch etwas tun!</font>
+
+1014
+01:35:20,505 --> 01:35:25,802
+<font color="#ffffff">Bevor ich mich wieder
+</font><font color="#ffffff">wie ein Kind fühle.</font>
+
+1015
+01:35:43,612 --> 01:35:47,574
+<font color="#00ffff">Leider habe ich noch keinen
+</font><font color="#00ffff">Führerschein!</font>
+
+1016
+01:35:49,785 --> 01:35:56,291
+<font color="#ffffff">(Die Gäste singen
+</font><font color="#ffffff">ein amerikanisches Weihnachtslied.)</font>
+
+1017
+01:36:05,675 --> 01:36:08,303
+<font color="#ffffff">Möchten Sie noch etwas?</font>
+
+1018
+01:36:14,810 --> 01:36:20,065
+<font color="#00ffff">Dad, unser neuestes Modell heißt
+</font><font color="#00ffff">"Wonder-Speed"!</font>
+
+1019
+01:36:20,565 --> 01:36:24,861
+<font color="#ffffff">Sie sind hier!
+</font><font color="#00ffff">- Ich muss jetzt Schluss machen!</font>
+
+1020
+01:36:25,362 --> 01:36:26,488
+<font color="#00ffff">Bye, bye!</font>
+
+1021
+01:36:27,531 --> 01:36:31,326
+<font color="#00ffff">Sie sind da?
+</font><font color="#ffffff">- Ja, begrüßen wir sie!</font>
+
+1022
+01:36:33,245 --> 01:36:35,038
+<font color="#00ffff">Verzeihen Sie, bitte!</font>
+
+1023
+01:36:35,539 --> 01:36:39,751
+<font color="#00ffff">Jim! Es freut mich,dass Sie da sind!
+</font><font color="#ffffff">- Danke. Das ist meine Frau Martha!</font>
+
+1024
+01:36:40,252 --> 01:36:41,544
+<font color="#00ffff">Das ist Sarah!
+</font><font color="#ffffff">- Hallo!</font>
+
+1025
+01:36:41,628 --> 01:36:45,424
+<font color="#ffffff">Wo sind die Kinder?
+</font><font color="#00ffff">- Da sind sie ja!</font>
+
+1026
+01:36:46,049 --> 01:36:50,846
+<font color="#ffffff">Woher wussten Sie das?
+</font><font color="#ffffff">- Er hat geraten!</font>
+
+1027
+01:36:51,346 --> 01:36:53,682
+<font color="#ffffff">Diese Ähnlichkeit!</font>
+
+1028
+01:36:54,182 --> 01:36:55,751
+<font color="#ffffff">Judy und Peter!</font>
+
+1029
+01:36:55,951 --> 01:36:56,560
+<font color="#ffffff">Hallo!</font>
+
+1030
+01:36:56,810 --> 01:36:59,229
+<font color="#ffffff">Ich freue mich, Sie kennenzulernen!</font>
+
+1031
+01:36:59,729 --> 01:37:01,606
+<font color="#ffffff">Ich freue mich auch!</font>
+
+1032
+01:37:02,107 --> 01:37:05,360
+<font color="#00ffff">Genauso hatte ich
+</font><font color="#00ffff">euch in Erinnerung.</font>
+
+1033
+01:37:06,528 --> 01:37:12,742
+<font color="#00ffff">Ich habe das Gefühl, wir wissen
+</font><font color="#00ffff">so viel über sie.</font>
+
+1034
+01:37:13,243 --> 01:37:15,704
+<font color="#ffffff">Sie haben Alan so viel über sie
+</font><font color="#ffffff">erzählt!</font>
+
+1035
+01:37:16,204 --> 01:37:17,456
+<font color="#00ffff">Ich hole die Päckchen!
+</font><font color="#ffffff">- Ja.</font>
+
+1036
+01:37:17,956 --> 01:37:19,791
+<font color="#ffffff">Wir lieben Kinder!</font>
+
+1037
+01:37:20,292 --> 01:37:21,043
+<font color="#00ffff">Fröhliche Weihnachten!</font>
+
+1038
+01:37:21,543 --> 01:37:22,419
+<font color="#ffffff">Cool!</font>
+
+1039
+01:37:23,962 --> 01:37:26,506
+<font color="#00ffff">Wann können Sie anfangen?</font>
+
+1040
+01:37:27,007 --> 01:37:31,553
+<font color="#ffffff">Wir wollen vorher noch eine
+</font><font color="#ffffff">Autoreise durch Kanada machen.</font>
+
+1041
+01:37:32,053 --> 01:37:33,221
+<font color="#ffffff">(beide:) Nein!!!</font>
+
+1042
+01:37:33,722 --> 01:37:35,474
+<font color="#00ffff">Entschuldigung!</font>
+
+1043
+01:37:35,974 --> 01:37:38,643
+<font color="#00ffff">Wir dachten, ...</font>
+
+1044
+01:37:39,144 --> 01:37:42,439
+<font color="#ffffff">.. Sie sollten rasch das Marketing
+</font><font color="#ffffff">übernehmen!</font>
+
+1045
+01:37:42,939 --> 01:37:46,109
+<font color="#ffffff">Na gut, ich beginne gleich morgen!</font>
+
+1046
+01:37:46,610 --> 01:37:49,613
+<font color="#00ffff">Ich stelle Ihnen Ihre
+</font><font color="#00ffff">neuen Kollegen vor!</font>
+
+1047
+01:37:50,113 --> 01:37:51,781
+<font color="#00ffff">Kommt, Kinder!</font>
+
+1048
+01:37:52,282 --> 01:37:54,409
+<font color="#00ffff">Unser Haus war .. ist euer Haus!</font>
+
+1049
+01:37:55,785 --> 01:38:01,708
+<font color="#ffffff">♪ Wir wünschen dir frohe Weihnachten
+</font><font color="#ffffff">und ein gutes, neues Jahr!</font>
+
+1050
+01:38:06,506 --> 01:38:08,007
+<font color="#ffffff">Was ist das für ein Geräusch?</font>
+
+1051
+01:38:10,050 --> 01:38:13,428
+<font color="#ffffff">(Trommel-Geräusch)</font>
+
